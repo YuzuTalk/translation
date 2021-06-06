@@ -1,0 +1,190 @@
+{
+    "asc": {
+        "ja": "昇順",
+        "en": "Ascending order"
+    },
+    "cancel": {
+        "ja": "キャンセル",
+        "en": "Cancel"
+    },
+    "character": {
+        "ja": "人物",
+        "en": "Character"
+    },
+    "clear": {
+        "ja": "クリア",
+        "en": "Clear"
+    },
+    "clear_all_messages": {
+        "ja": "メッセージをクリアしますか？",
+        "en": "Clear all messages?"
+    },
+    "close": {
+        "ja": "閉じる",
+        "en": "Close"
+    },
+    "club": {
+        "ja": "クラブ",
+        "en": "Club"
+    },
+    "copyright_notice": {
+        "ja": "著作権表示",
+        "en": "Copyright notice"
+    },
+    "contact": {
+        "ja": "お問い合わせ",
+        "en": "Contact"
+    },
+    "delete": {
+        "ja": "削除",
+        "en": "Delete"
+    },
+    "delete_mode": {
+        "ja": "削除モード",
+        "en": "Delete mode"
+    },
+    "desc": {
+        "ja": "降順",
+        "en": "Descending order"
+    },
+    "download": {
+        "ja": "ダウンロード",
+        "en": "Download"
+    },
+    "dummy": {
+        "ja": "ダミー",
+        "en": "Dummy"
+    },
+    "first_name": {
+        "ja": "名前",
+        "en": "First name"
+    },
+    "help": {
+        "ja": "ヘルプ",
+        "en": "Help"
+    },
+    "kizuna": {
+        "ja": "絆",
+        "en": "Kizuna"
+    },
+    "kizuna_event": {
+        "ja": "絆イベント",
+        "en": "Kizuna event"
+    },
+    "image": {
+        "ja": "画像",
+        "en": "Image"
+    },
+    "language": {
+        "ja": "言語",
+        "en": "Language"
+    },
+    "last_name": {
+        "ja": "名字",
+        "en": "Last name"
+    },
+    "mail": {
+        "ja": "メール",
+        "en": "Mail"
+    },
+    "meta_site_description": {
+        "ja": "ユズトークはモモトーク風トークジェネレータです。",
+        "en": "YuzuTalk is a MomoTalk style talk generator."
+    },
+    "name": {
+        "ja": "名前",
+        "en": "Name"
+    },
+    "news": {
+        "ja": "お知らせ",
+        "en": "News"
+    },
+    "no": {
+        "ja": "No",
+        "en": "No"
+    },
+    "notification": {
+        "ja": "通知",
+        "en": "Notification"
+    },
+    "ok": {
+        "ja": "OK",
+        "en": "OK"
+    },
+    "open": {
+        "ja": "開く",
+        "en": "Open"
+    },
+    "peroro": {
+        "ja": "ペロロ様",
+        "en": "Peroro-sama"
+    },
+    "please_select_a_character": {
+        "ja": "人物を選択してください。",
+        "en": "Please select a character."
+    },
+    "question": {
+        "ja": "はてな",
+        "en": "Question"
+    },
+    "search": {
+        "ja": "検索",
+        "en": "Search"
+    },
+    "setting": {
+        "ja": "設定",
+        "en": "Setting"
+    },
+    "school": {
+        "ja": "学校",
+        "en": "School"
+    },
+    "send": {
+        "ja": "送信",
+        "en": "Send"
+    },
+    "send_back": {
+        "ja": "返信する",
+        "en": "Send back"
+    },
+    "sort": {
+        "ja": "並び替え",
+        "en": "Sort"
+    },
+    "stamp": {
+        "ja": "スタンプ",
+        "en": "Stamp"
+    },
+    "system_message": {
+        "ja": "システムメッセージ",
+        "en": "System message"
+    },
+    "teacher": {
+        "ja": "先生",
+        "en": "Teacher"
+    },
+    "terms_of_service": {
+        "ja": "利用規約",
+        "en": "Terms Of Service"
+    },
+    "to_kizuna_story": {
+        "ja": "$value$の絆ストーリーへ",
+        "en": "To $value$'s Kizuna story"
+    },
+    "trash_can": {
+        "ja": "ゴミ箱",
+        "en": "Trash can"
+    },
+    "unknown": {
+        "ja": "不明",
+        "en": "Unknown"
+    },
+    "yes": {
+        "ja": "Yes",
+        "en": "Yes"
+    },
+    "yuzu": {
+        "ja": "柚子",
+        "en": "Yuzu"
+    }
+}

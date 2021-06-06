@@ -1,0 +1,1 @@
+# YuzuTalk Translation Data
