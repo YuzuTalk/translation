@@ -1,0 +1,37 @@
+{
+    "abydos": {
+        "ja": "アビドス高等学校",
+        "en": "Abydos High school",
+        "ko": "아비도스 고등학교"
+    },
+    "gehenna": {
+        "ja": "ゲヘナ学園",
+        "en": "Gehenna School",
+        "ko": "게헨나 학원"
+    },
+    "trinity": {
+        "ja": "トリニティ総合学園",
+        "en": "Trinity General School",
+        "ko": "트리니티 종합학원"
+    },
+    "millennium": {
+        "ja": "ミレニアムサイエンススクール",
+        "en": "Millennium Science School",
+        "ko": "밀레니엄 사이언스 스쿨"
+    },
+    "shanhaijing": {
+        "ja": "山海経高級中学校",
+        "en": "Shanhaijing Senior Secondary School",
+        "ko": "산해경 고급중학교"
+    },
+    "hyakkiyako": {
+        "ja": "百鬼夜行連合学院",
+        "en": "Hyakkiyako Alliance Academy",
+        "ko": "백귀야행 연합학원"
+    },
+    "red winter": {
+        "ja": "レッドウィンター連邦学園",
+        "en": "Red Winter Federal Academy",
+        "ko": "레드윈터 연방학원"
+    }
+}

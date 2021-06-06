@@ -1,0 +1,192 @@
+{
+    "measures_committee": {
+        "ja": "対策委員会",
+        "en": "Measures Committee",
+        "ko": "대책위원회"
+    },
+    "school_lunch_club": {
+        "ja": "給食部",
+        "en": "School Lunch Club",
+        "ko": "급식부"
+    },
+    "gourmet_research_society": {
+        "ja": "美食研究会",
+        "en": "Gourmet Research Society",
+        "ko": "미식연구회"
+    },
+    "handyman_68": {
+        "ja": "便利屋68",
+        "en": "Handyman 68",
+        "ko": "흥신소68"
+    },
+    "disciplinary_committee": {
+        "ja": "風紀委員会",
+        "en": "Disciplinary Committee",
+        "ko": "풍기위원회"
+    },
+    "supplementary_lesson_club": {
+        "ja": "補習授業部",
+        "en": "Supplementary Lesson Club",
+        "ko": "보충수업부"
+    },
+    "order_of_the_relief": {
+        "ja": "救護騎士団",
+        "en": "Order of the Relief",
+        "ko": "구호기사단"
+    },
+    "library_committee": {
+        "ja": "図書委員会",
+        "en": "Library Committee",
+        "ko": "도서위원회"
+    },
+    "justice_realization_committee": {
+        "ja": "正義実現委員会",
+        "en": "Justice Realization Committee",
+        "ko": "정의실현위원회"
+    },
+    "after_school_sweets_club": {
+        "ja": "放課後スイーツ部",
+        "en": "After-School Sweets Club",
+        "ko": "방과후 스위트부"
+    },
+    "trinity_vigilante": {
+        "ja": "トリニティ自警団",
+        "en": "Trinity Vigilante",
+        "ko": "트리니티 자경단"
+    },
+    "seminar": {
+        "ja": "セミナー",
+        "en": "Seminar",
+        "ko": "세미나"
+    },
+    "cleaning_and_clearing": {
+        "ja": "Cleaning & Clearing",
+        "en": "Cleaning & Clearing",
+        "ko": "Cleaning & Clearing"
+    },
+    "peculiar_phenomenon_special_affairs_department": {
+        "ja": "特異現象特務部",
+        "en": "Peculiar phenomenon Special Affairs Department",
+        "ko": "특이현상 수사부"
+    },
+    "veritas": {
+        "ja": "ヴェリタス",
+        "en": "Veritas",
+        "ko": "베리타스"
+    },
+    "engineering_department": {
+        "ja": "エンジニア部",
+        "en": "Engineering Department",
+        "ko": "엔지니어부"
+    },
+    "gym_training_department": {
+        "ja": "トレーニング部",
+        "en": "Gym Training Department",
+        "ko": "트레이닝부"
+    },
+    "game_development_department": {
+        "ja": "ゲーム開発部",
+        "en": "Game Development Department",
+        "ko": "게임개발부"
+    },
+    "training_support_department": {
+        "ja": "訓育支援部「梅花園」",
+        "en": "Training Support Department \"Baikaen\"",
+        "ko": "훈육지원부 「매화원」"
+    },
+    "chinese_alchemy_research_society": {
+        "ja": "錬丹術研究会",
+        "en": "Chinese alchemy Research Society",
+        "ko": "연단술 연구회"
+    },
+    "festival_management_committee": {
+        "ja": "お祭り運営委員会",
+        "en": "Festival Management Committee",
+        "ko": "축제운영위원회"
+    },
+    "training_department": {
+        "ja": "修行部",
+        "en": "Training Department",
+        "ko": "수행부"
+    },
+    "ninjutsu_research_department": {
+        "ja": "忍術研究部",
+        "en": "Ninjutsu Research Department",
+        "ko": "인술연구부"
+    },
+    "yin_yang_club": {
+        "ja": "陰陽部",
+        "en": "Yin-Yang Club",
+        "ko": "음양부"
+    },
+    "special_class_no.227": {
+        "ja": "227号特別クラス",
+        "en": "Special Class No.227",
+        "ko": "227호 특별반"
+    },
+    "red_winter_secretariat": {
+        "ja": "レッドウィンター事務局",
+        "en": "Red Winter Secretariat",
+        "ko": "레드윈터 사무국"
+    },
+    "gematria": {
+        "ja": "ゲマトリア",
+        "en": "Gematria",
+        "ko": "게마트리아"
+    },
+    "angel_24": {
+        "ja": "エンジェル24",
+        "en": "Angel 24",
+        "ko": "앤젤24 편의점"
+    },
+    "shitim's_box": {
+        "ja": "シッテムの箱",
+        "en": "Shitim's Box",
+        "ko": "싯딤의 상자"
+    },
+    "kaiser_pmc": {
+        "ja": "カイザーPMC",
+        "en": "Kaiser PMC",
+        "ko": "카이저 PMC"
+    },
+    "sibaseki_ramen": {
+        "ja": "柴関ラーメン",
+        "en": "Sibaseki Ramen",
+        "ko": "시바세키 라멘"
+    },
+    "hyakkiyako_commercial_district": {
+        "ja": "百鬼夜行商店街",
+        "en": "Hyakkiyako Commercial district",
+        "ko": "백귀야행 상점가"
+    },
+    "general_student_council": {
+        "ja": "連邦生徒会",
+        "en": "General Student Council",
+        "ko": "연방학생회"
+    },
+    "masked_swimsuit_group": {
+        "ja": "覆面水着団",
+        "en": "Masked Swimsuit Group",
+        "ko": "복면수영복단"
+    },
+    "momo_friends": {
+        "ja": "モモフレンズ",
+        "en": "Momo Friends",
+        "ko": "모모프렌즈"
+    },
+    "decagrammaton": {
+        "ja": "デカグラマトン",
+        "en": "Decagrammaton",
+        "ko": "데카그라마톤"
+    },
+    "mimesis": {
+        "ja": "ミメシス",
+        "en": "Mimesis",
+        "ko": "미메시스"
+    },
+    "communio_sanctorum": {
+        "ja": "コムニオ・サンクトラム",
+        "en": "Communio Sanctorum",
+        "ko": "코뮤니오 상토룸"
+    }
+}
