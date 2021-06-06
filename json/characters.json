@@ -1,6 +1,6 @@
 [
     {
-        "text": {
+        "name": {
             "first_name": {
                 "ja": "ノノミ",
                 "en": "Nonomi",
@@ -10,14 +10,14 @@
                 "ja": "十六夜",
                 "en": "Izayoi",
                 "ko": "이자요이"
-            },
-            "school": "abydos",
-            "club": "measures_committee"
-        },
+            }
+		},
+		"school": "abydos",
+		"club": "measures_committee",
         "img": "Nonomi"
     },
     {
-        "text": {
+        "name": {
             "first_name": {
                 "ja": "セリカ",
                 "en": "Serika",
@@ -27,14 +27,14 @@
                 "ja": "黒見",
                 "en": "Kuromi",
                 "ko": "쿠로미"
-            },
-            "school": "abydos",
-            "club": "measures_committee"
-        },
+            }
+		},
+		"school": "abydos",
+		"club": "measures_committee",
         "img": "Serika"
     },
     {
-        "text": {
+        "name": {
             "first_name": {
                 "ja": "アヤネ",
                 "en": "Ayane",
@@ -44,14 +44,14 @@
                 "ja": "奥空",
                 "en": "Okusora",
                 "ko": "오쿠소라"
-            },
-            "school": "abydos",
-            "club": "measures_committee"
-        },
+            }
+		},
+		"school": "abydos",
+		"club": "measures_committee",
         "img": "Ayane"
     },
     {
-        "text": {
+        "name": {
             "first_name": {
                 "ja": "シロコ",
                 "en": "Shiroko",
@@ -61,14 +61,14 @@
                 "ja": "砂狼",
                 "en": "Sunaookami",
                 "ko": "스나오오카미"
-            },
-            "school": "abydos",
-            "club": "measures_committee"
-        },
+            }
+		},
+		"school": "abydos",
+		"club": "measures_committee",
         "img": "Shiroko"
     },
     {
-        "text": {
+        "name": {
             "first_name": {
                 "ja": "ホシノ",
                 "en": "Hoshino",
@@ -78,14 +78,14 @@
                 "ja": "小鳥遊",
                 "en": "Takanashi",
                 "ko": "타카나시"
-            },
-            "school": "abydos",
-            "club": "measures_committee"
-        },
+            }
+		},
+		"school": "abydos",
+		"club": "measures_committee",
         "img": "Hoshino"
     },
     {
-        "text": {
+        "name": {
             "first_name": {
                 "ja": "フウカ",
                 "en": "Fuuka",
@@ -95,14 +95,14 @@
                 "ja": "愛清",
                 "en": "Aikiyo",
                 "ko": "아이키요"
-            },
-            "school": "gehhena",
-            "club": "school_lunch_club"
-        },
+            }
+		},
+		"school": "gehhena",
+		"club": "school_lunch_club",
         "img": "Fuuka"
     },
     {
-        "text": {
+        "name": {
             "first_name": {
                 "ja": "ジュンコ",
                 "en": "Junko",
@@ -112,14 +112,14 @@
                 "ja": "赤司",
                 "en": "Akashi",
                 "ko": "아카시"
-            },
-            "school": "gehhena",
-            "club": "gourmet_research_society"
-        },
+            }
+		},
+		"school": "gehhena",
+		"club": "gourmet_research_society",
         "img": "Junko"
     },
     {
-        "text": {
+        "name": {
             "first_name": {
                 "ja": "ムツキ",
                 "en": "Mutsuki",
@@ -129,14 +129,14 @@
                 "ja": "浅黄",
                 "en": "Asagi",
                 "ko": "아사기"
-            },
-            "school": "gehhena",
-            "club": "handyman_68"
-        },
+            }
+		},
+		"school": "gehhena",
+		"club": "handyman_68",
         "img": "Mutsuki"
     },
     {
-        "text": {
+        "name": {
             "first_name": {
                 "ja": "チナツ",
                 "en": "Chinatsu",
@@ -146,14 +146,14 @@
                 "ja": "火宮",
                 "en": "Hinomiya",
                 "ko": "히노미야"
-            },
-            "school": "gehhena",
-            "club": "disciplinary_committee"
-        },
+            }
+		},
+		"school": "gehhena",
+		"club": "disciplinary_committee",
         "img": "Chinatsu"
     },
     {
-        "text": {
+        "name": {
             "first_name": {
                 "ja": "ハルカ",
                 "en": "Haruka",
@@ -163,14 +163,14 @@
                 "ja": "伊草",
                 "en": "Igusa",
                 "ko": "이구사"
-            },
-            "school": "gehhena",
-            "club": "handyman_68"
-        },
+            }
+		},
+		"school": "gehhena",
+		"club": "handyman_68",
         "img": "Haruka"
     },
     {
-        "text": {
+        "name": {
             "first_name": {
                 "ja": "ハルナ",
                 "en": "Haruna",
@@ -180,14 +180,14 @@
                 "ja": "黒館",
                 "en": "Kurodate",
                 "ko": "쿠로다테"
-            },
-            "school": "gehhena",
-            "club": "gourmet_research_society"
-        },
+            }
+		},
+		"school": "gehhena",
+		"club": "gourmet_research_society",
         "img": "Haruna"
     },
     {
-        "text": {
+        "name": {
             "first_name": {
                 "ja": "カヨコ",
                 "en": "Kayoko",
@@ -197,14 +197,14 @@
                 "ja": "鬼方",
                 "en": "Onikata",
                 "ko": "오니카타"
-            },
-            "school": "gehhena",
-            "club": "handyman_68"
-        },
+            }
+		},
+		"school": "gehhena",
+		"club": "handyman_68",
         "img": "Kayoko"
     },
     {
-        "text": {
+        "name": {
             "first_name": {
                 "ja": "アル",
                 "en": "Aru",
@@ -214,14 +214,14 @@
                 "ja": "陸八魔",
                 "en": "Rikuhachima",
                 "ko": "리쿠하치마"
-            },
-            "school": "gehhena",
-            "club": "handyman_68"
-        },
+            }
+		},
+		"school": "gehhena",
+		"club": "handyman_68",
         "img": "Aru"
     },
     {
-        "text": {
+        "name": {
             "first_name": {
                 "ja": "イオリ",
                 "en": "Iori",
@@ -231,14 +231,14 @@
                 "ja": "銀鏡",
                 "en": "Shiromi",
                 "ko": "시로미"
-            },
-            "school": "gehhena",
-            "club": "disciplinary_committee"
-        },
+            }
+		},
+		"school": "gehhena",
+		"club": "disciplinary_committee",
         "img": "Iori"
     },
     {
-        "text": {
+        "name": {
             "first_name": {
                 "ja": "イズミ",
                 "en": "Izumi",
@@ -248,14 +248,14 @@
                 "ja": "獅子堂",
                 "en": "Shishidou",
                 "ko": "시시도우"
-            },
-            "school": "gehhena",
-            "club": "gourmet_research_society"
-        },
+            }
+		},
+		"school": "gehhena",
+		"club": "gourmet_research_society",
         "img": "Izumi"
     },
     {
-        "text": {
+        "name": {
             "first_name": {
                 "ja": "ヒナ",
                 "en": "Hina",
@@ -265,14 +265,14 @@
                 "ja": "空崎",
                 "en": "Sorasaki",
                 "ko": "소라사키"
-            },
-            "school": "gehhena",
-            "club": "disciplinary_committee"
-        },
+            }
+		},
+		"school": "gehhena",
+		"club": "disciplinary_committee",
         "img": "Hina"
     },
     {
-        "text": {
+        "name": {
             "first_name": {
                 "ja": "ジュリ",
                 "en": "Juri",
@@ -282,14 +282,14 @@
                 "ja": "牛牧",
                 "en": "Ushimaki",
                 "ko": "우시마키"
-            },
-            "school": "gehhena",
-            "club": "school_lunch_club"
-        },
+            }
+		},
+		"school": "gehhena",
+		"club": "school_lunch_club",
         "img": "Juri"
     },
     {
-        "text": {
+        "name": {
             "first_name": {
                 "ja": "アカリ",
                 "en": "Akari",
@@ -299,14 +299,14 @@
                 "ja": "鰐渕",
                 "en": "Wanibuchi",
                 "ko": "와니부치"
-            },
-            "school": "gehhena",
-            "club": "gourmet_research_society"
-        },
+            }
+		},
+		"school": "gehhena",
+		"club": "gourmet_research_society",
         "img": "Akari"
     },
     {
-        "text": {
+        "name": {
             "first_name": {
                 "ja": "ヒフミ",
                 "en": "Hifumi",
@@ -316,14 +316,14 @@
                 "ja": "阿慈谷",
                 "en": "Ajitani",
                 "ko": "아지타니"
-            },
-            "school": "trinity",
-            "club": "supplementary_lesson_club"
-        },
+            }
+		},
+		"school": "trinity",
+		"club": "supplementary_lesson_club",
         "img": "Hifumi"
     },
     {
-        "text": {
+        "name": {
             "first_name": {
                 "ja": "ハナエ",
                 "en": "Hanae",
@@ -333,14 +333,14 @@
                 "ja": "朝顔",
                 "en": "Asagao",
                 "ko": "아사가오"
-            },
-            "school": "trinity",
-            "club": "order_of_the_relief"
-        },
+            }
+		},
+		"school": "trinity",
+		"club": "order_of_the_relief",
         "img": "Hanae"
     },
     {
-        "text": {
+        "name": {
             "first_name": {
                 "ja": "シミコ",
                 "en": "Shimiko",
@@ -350,14 +350,14 @@
                 "ja": "円堂",
                 "en": "Endou",
                 "ko": "엔도우"
-            },
-            "school": "trinity",
-            "club": "library_committee"
-        },
+            }
+		},
+		"school": "trinity",
+		"club": "library_committee",
         "img": "Shimiko"
     },
     {
-        "text": {
+        "name": {
             "first_name": {
                 "ja": "ハスミ",
                 "en": "Hasumi",
@@ -367,14 +367,14 @@
                 "ja": "羽川",
                 "en": "Hanekawa",
                 "ko": "하네카와"
-            },
-            "school": "trinity",
-            "club": "justice_realization_committee"
-        },
+            }
+		},
+		"school": "trinity",
+		"club": "justice_realization_committee",
         "img": "Hasumi"
     },
     {
-        "text": {
+        "name": {
             "first_name": {
                 "ja": "ヨシミ",
                 "en": "Yoshimi",
@@ -384,14 +384,14 @@
                 "ja": "伊原木",
                 "en": "Ibaragi",
                 "ko": "이바라기"
-            },
-            "school": "trinity",
-            "club": "after_school_sweets_club"
-        },
+            }
+		},
+		"school": "trinity",
+		"club": "after_school_sweets_club",
         "img": "Yoshimi"
     },
     {
-        "text": {
+        "name": {
             "first_name": {
                 "ja": "ツルギ",
                 "en": "Tsurugi",
@@ -401,14 +401,14 @@
                 "ja": "剣先",
                 "en": "Kenzaki",
                 "ko": "켄자키"
-            },
-            "school": "trinity",
-            "club": "justice_realization_committee"
-        },
+            }
+		},
+		"school": "trinity",
+		"club": "justice_realization_committee",
         "img": "Tsurugi"
     },
     {
-        "text": {
+        "name": {
             "first_name": {
                 "ja": "アイリ",
                 "en": "Airi",
@@ -418,14 +418,14 @@
                 "ja": "栗村",
                 "en": "Kurimura",
                 "ko": "쿠리무라"
-            },
-            "school": "trinity",
-            "club": "after_school_sweets_club"
-        },
+            }
+		},
+		"school": "trinity",
+		"club": "after_school_sweets_club",
         "img": "Airi"
     },
     {
-        "text": {
+        "name": {
             "first_name": {
                 "ja": "スズミ",
                 "en": "Suzumi",
@@ -435,14 +435,14 @@
                 "ja": "守月",
                 "en": "Morizuki",
                 "ko": "모리즈키"
-            },
-            "school": "trinity",
-            "club": "trinity_vigilante"
-        },
+            }
+		},
+		"school": "trinity",
+		"club": "trinity_vigilante",
         "img": "Suzumi"
     },
     {
-        "text": {
+        "name": {
             "first_name": {
                 "ja": "マシロ",
                 "en": "Mashiro",
@@ -452,14 +452,14 @@
                 "ja": "静山",
                 "en": "Shizuyama",
                 "ko": "시즈야마"
-            },
-            "school": "trinity",
-            "club": "justice_realization_committee"
-        },
+            }
+		},
+		"school": "trinity",
+		"club": "justice_realization_committee",
         "img": "Mashiro"
     },
     {
-        "text": {
+        "name": {
             "first_name": {
                 "ja": "セリナ",
                 "en": "Serina",
@@ -469,14 +469,14 @@
                 "ja": "鷲見",
                 "en": "Sumi",
                 "ko": "스미"
-            },
-            "school": "trinity",
-            "club": "order_of_the_relief"
-        },
+            }
+		},
+		"school": "trinity",
+		"club": "order_of_the_relief",
         "img": "Serina"
     },
     {
-        "text": {
+        "name": {
             "first_name": {
                 "ja": "ユウカ",
                 "en": "Yuuka",
@@ -486,14 +486,14 @@
                 "ja": "早瀬",
                 "en": "Hayase",
                 "ko": "하야세"
-            },
-            "school": "millennium",
-            "club": "seminar"
-        },
+            }
+		},
+		"school": "millennium",
+		"club": "seminar",
         "img": "Yuuka"
     },
     {
-        "text": {
+        "name": {
             "first_name": {
                 "ja": "アスナ",
                 "en": "Asuna",
@@ -503,14 +503,14 @@
                 "ja": "一之瀬",
                 "en": "Ichinose",
                 "ko": "이치노세"
-            },
-            "school": "millennium",
-            "club": "cleaning_and_clearing"
-        },
+            }
+		},
+		"school": "millennium",
+		"club": "cleaning_and_clearing",
         "img": "Asuna"
     },
     {
-        "text": {
+        "name": {
             "first_name": {
                 "ja": "エイミ",
                 "en": "Eimi",
@@ -520,14 +520,14 @@
                 "ja": "和泉元",
                 "en": "Izumimoto",
                 "ko": "이즈미모토"
-            },
-            "school": "millennium",
-            "club": "peculiar_phenomenon_special_affairs_department"
-        },
+            }
+		},
+		"school": "millennium",
+		"club": "peculiar_phenomenon_special_affairs_department",
         "img": "Eimi"
     },
     {
-        "text": {
+        "name": {
             "first_name": {
                 "ja": "カリン",
                 "en": "Karin",
@@ -537,14 +537,14 @@
                 "ja": "角楯",
                 "en": "Kakudate",
                 "ko": "카쿠다테"
-            },
-            "school": "millennium",
-            "club": "cleaning_and_clearing"
-        },
+            }
+		},
+		"school": "millennium",
+		"club": "cleaning_and_clearing",
         "img": "Karin"
     },
     {
-        "text": {
+        "name": {
             "first_name": {
                 "ja": "マキ",
                 "en": "Maki",
@@ -554,14 +554,14 @@
                 "ja": "小塗",
                 "en": "Konuri",
                 "ko": "코누리"
-            },
-            "school": "millennium",
-            "club": "veritas"
-        },
+            }
+		},
+		"school": "millennium",
+		"club": "veritas",
         "img": "Maki"
     },
     {
-        "text": {
+        "name": {
             "first_name": {
                 "ja": "ネル",
                 "en": "Neru",
@@ -571,14 +571,14 @@
                 "ja": "美甘",
                 "en": "Mikamo",
                 "ko": "미카모"
-            },
-            "school": "millennium",
-            "club": "cleaning_and_clearing"
-        },
+            }
+		},
+		"school": "millennium",
+		"club": "cleaning_and_clearing",
         "img": "Neru"
     },
     {
-        "text": {
+        "name": {
             "first_name": {
                 "ja": "アカネ",
                 "en": "Akane",
@@ -588,14 +588,14 @@
                 "ja": "室笠",
                 "en": "Murokasa",
                 "ko": "무로카사"
-            },
-            "school": "millennium",
-            "club": "cleaning_and_clearing"
-        },
+            }
+		},
+		"school": "millennium",
+		"club": "cleaning_and_clearing",
         "img": "Akane"
     },
     {
-        "text": {
+        "name": {
             "first_name": {
                 "ja": "ヒビキ",
                 "en": "Hibiki",
@@ -605,14 +605,14 @@
                 "ja": "猫塚",
                 "en": "Nekozuka",
                 "ko": "네코즈카"
-            },
-            "school": "millennium",
-            "club": "engineering_department"
-        },
+            }
+		},
+		"school": "millennium",
+		"club": "engineering_department",
         "img": "Hibiki"
     },
     {
-        "text": {
+        "name": {
             "first_name": {
                 "ja": "ハレ",
                 "en": "Hare",
@@ -622,14 +622,14 @@
                 "ja": "小鈎",
                 "en": "Omagari",
                 "ko": "오마가리"
-            },
-            "school": "millennium",
-            "club": "veritas"
-        },
+            }
+		},
+		"school": "millennium",
+		"club": "veritas",
         "img": "Hare"
     },
     {
-        "text": {
+        "name": {
             "first_name": {
                 "ja": "スミレ",
                 "en": "Sumire",
@@ -639,14 +639,14 @@
                 "ja": "乙花",
                 "en": "Otohana",
                 "ko": "오토하나"
-            },
-            "school": "millennium",
-            "club": "gym_training_department"
-        },
+            }
+		},
+		"school": "millennium",
+		"club": "gym_training_department",
         "img": "Sumire"
     },
     {
-        "text": {
+        "name": {
             "first_name": {
                 "ja": "コタマ",
                 "en": "Kotama",
@@ -656,14 +656,14 @@
                 "ja": "音瀬",
                 "en": "Otose",
                 "ko": "오토세"
-            },
-            "school": "millennium",
-            "club": "veritas"
-        },
+            }
+		},
+		"school": "millennium",
+		"club": "veritas",
         "img": "Kotama"
     },
     {
-        "text": {
+        "name": {
             "first_name": {
                 "ja": "モモイ",
                 "en": "Momoi",
@@ -673,14 +673,14 @@
                 "ja": "才羽",
                 "en": "Saiba",
                 "ko": "사이바"
-            },
-            "school": "millennium",
-            "club": "game_development_department"
-        },
+            }
+		},
+		"school": "millennium",
+		"club": "game_development_department",
         "img": "Momoi"
     },
     {
-        "text": {
+        "name": {
             "first_name": {
                 "ja": "ミドリ",
                 "en": "Midori",
@@ -690,14 +690,14 @@
                 "ja": "才羽",
                 "en": "Saiba",
                 "ko": "사이바"
-            },
-            "school": "millennium",
-            "club": "game_development_department"
-        },
+            }
+		},
+		"school": "millennium",
+		"club": "game_development_department",
         "img": "Midori"
     },
     {
-        "text": {
+        "name": {
             "first_name": {
                 "ja": "ウタハ",
                 "en": "Utaha",
@@ -707,14 +707,14 @@
                 "ja": "白石",
                 "en": "Shiraishi",
                 "ko": "시라이시"
-            },
-            "school": "millennium",
-            "club": "engineering_department"
-        },
+            }
+		},
+		"school": "millennium",
+		"club": "engineering_department",
         "img": "Utaha"
     },
     {
-        "text": {
+        "name": {
             "first_name": {
                 "ja": "アリス",
                 "en": "Alice",
@@ -724,14 +724,14 @@
                 "ja": "天童",
                 "en": "Tendou",
                 "ko": "텐도"
-            },
-            "school": "millennium",
-            "club": "game_development_department"
-        },
+            }
+		},
+		"school": "millennium",
+		"club": "game_development_department",
         "img": "Alice"
     },
     {
-        "text": {
+        "name": {
             "first_name": {
                 "ja": "コトリ",
                 "en": "Kotori",
@@ -741,14 +741,14 @@
                 "ja": "豊見",
                 "en": "Toyomi",
                 "ko": "토요미"
-            },
-            "school": "millennium",
-            "club": "engineering_department"
-        },
+            }
+		},
+		"school": "millennium",
+		"club": "engineering_department",
         "img": "Kotori"
     },
     {
-        "text": {
+        "name": {
             "first_name": {
                 "ja": "シュン",
                 "en": "Shun",
@@ -758,14 +758,14 @@
                 "ja": "春原",
                 "en": "Sunohara",
                 "ko": "스노하라"
-            },
-            "school": "shanhaijing",
-            "club": "training_support_department"
-        },
+            }
+		},
+		"school": "shanhaijing",
+		"club": "training_support_department",
         "img": "Shun"
     },
     {
-        "text": {
+        "name": {
             "first_name": {
                 "ja": "サヤ",
                 "en": "Saya",
@@ -775,14 +775,14 @@
                 "ja": "薬子",
                 "en": "Yakushi",
                 "ko": "야쿠시"
-            },
-            "school": "shanhaijing",
-            "club": "chinese_alchemy_research_society"
-        },
+            }
+		},
+		"school": "shanhaijing",
+		"club": "chinese_alchemy_research_society",
         "img": "Saya"
     },
     {
-        "text": {
+        "name": {
             "first_name": {
                 "ja": "フィーナ",
                 "en": "Pina",
@@ -792,14 +792,14 @@
                 "ja": "朝比奈",
                 "en": "Asahina",
                 "ko": "아사히나"
-            },
-            "school": "hyakkiyako",
-            "club": "festival_management_committee"
-        },
+            }
+		},
+		"school": "hyakkiyako",
+		"club": "festival_management_committee",
         "img": "Pina"
     },
     {
-        "text": {
+        "name": {
             "first_name": {
                 "ja": "ツバキ",
                 "en": "Tsubaki",
@@ -809,14 +809,14 @@
                 "ja": "春日",
                 "en": "Kasuga",
                 "ko": "카스가"
-            },
-            "school": "hyakkiyako",
-            "club": "training_department"
-        },
+            }
+		},
+		"school": "hyakkiyako",
+		"club": "training_department",
         "img": "Tsubaki"
     },
     {
-        "text": {
+        "name": {
             "first_name": {
                 "ja": "シズコ",
                 "en": "Shizuko",
@@ -826,14 +826,14 @@
                 "ja": "河和",
                 "en": "Kawawa",
                 "ko": "카와와"
-            },
-            "school": "hyakkiyako",
-            "club": "festival_management_committee"
-        },
+            }
+		},
+		"school": "hyakkiyako",
+		"club": "festival_management_committee",
         "img": "Shizuko"
     },
     {
-        "text": {
+        "name": {
             "first_name": {
                 "ja": "イズナ",
                 "en": "Izuna",
@@ -843,14 +843,14 @@
                 "ja": "久田",
                 "en": "Kuda",
                 "ko": "쿠다"
-            },
-            "school": "hyakkiyako",
-            "club": "ninjutsu_research_department"
-        },
+            }
+		},
+		"school": "hyakkiyako",
+		"club": "ninjutsu_research_department",
         "img": "Izuna"
     },
     {
-        "text": {
+        "name": {
             "first_name": {
                 "ja": "チセ",
                 "en": "Chise",
@@ -860,14 +860,14 @@
                 "ja": "和楽",
                 "en": "Waraku",
                 "ko": "와라쿠"
-            },
-            "school": "hyakkiyako",
-            "club": "yin_yang_club"
-        },
+            }
+		},
+		"school": "hyakkiyako",
+		"club": "yin_yang_club",
         "img": "Chise"
     },
     {
-        "text": {
+        "name": {
             "first_name": {
                 "ja": "ノドカ",
                 "en": "Nodoka",
@@ -884,7 +884,7 @@
         "img": "Nodoka"
     },
     {
-        "text": {
+        "name": {
             "first_name": {
                 "ja": "チェリノ",
                 "en": "Cherino",
@@ -901,7 +901,7 @@
         "img": "Cherino"
     },
     {
-        "text": {
+        "name": {
             "first_name": {
                 "ja": "ユズ",
                 "en": "Yuzu",
@@ -911,14 +911,14 @@
                 "ja": "花岡",
                 "en": "Hanaoka",
                 "ko": "하나오카"
-            },
-            "school": "millennium",
-            "club": "game_development_department"
-        },
+            }
+		},
+		"school": "millennium",
+		"club": "game_development_department",
         "img": "Yuzu"
     },
     {
-        "text": {
+        "name": {
             "first_name": {
                 "ja": "黒服",
                 "en": "Black Suit",
@@ -928,14 +928,14 @@
                 "ja": "",
                 "en": "",
                 "ko": ""
-            },
-            "school": "???",
-            "club": "gematria"
-        },
+            }
+		},
+		"school": "???",
+		"club": "gematria",
         "img": "Black_Suit"
     },
     {
-        "text": {
+        "name": {
             "first_name": {
                 "ja": "ソラ",
                 "en": "Sora",
@@ -945,14 +945,14 @@
                 "ja": "",
                 "en": "",
                 "ko": ""
-            },
-            "school": "???",
-            "club": "angel_24"
-        },
+            }
+		},
+		"school": "???",
+		"club": "angel_24",
         "img": "Sora"
     },
     {
-        "text": {
+        "name": {
             "first_name": {
                 "ja": "アロナ",
                 "en": "Arona",
@@ -969,7 +969,7 @@
         "img": "Arona"
     },
     {
-        "text": {
+        "name": {
             "first_name": {
                 "ja": "カイザーPMC理事",
                 "en": "Kaiser PMC Director",
@@ -979,14 +979,14 @@
                 "ja": "",
                 "en": "",
                 "ko": ""
-            },
-            "school": "???",
-            "club": "kaiser_pmc"
-        },
+            }
+		},
+		"school": "???",
+		"club": "kaiser_pmc",
         "img": "Kaiser_PMC_Director"
     },
     {
-        "text": {
+        "name": {
             "first_name": {
                 "ja": "マエストロ",
                 "en": "Maestro",
@@ -996,14 +996,14 @@
                 "ja": "",
                 "en": "",
                 "ko": ""
-            },
-            "school": "???",
-            "club": "gematria"
-        },
+            }
+		},
+		"school": "???",
+		"club": "gematria",
         "img": "Maestro"
     },
     {
-        "text": {
+        "name": {
             "first_name": {
                 "ja": "柴大将",
                 "en": "Shibaseki Master",
@@ -1013,14 +1013,14 @@
                 "ja": "",
                 "en": "",
                 "ko": ""
-            },
-            "school": "???",
-            "club": "sibaseki_ramen"
-        },
+            }
+		},
+		"school": "???",
+		"club": "sibaseki_ramen",
         "img": "Shibaseki_Master"
     },
     {
-        "text": {
+        "name": {
             "first_name": {
                 "ja": "ニャン天丸",
                 "en": "Nyantenmaru",
@@ -1030,14 +1030,14 @@
                 "ja": "",
                 "en": "",
                 "ko": ""
-            },
-            "school": "???",
-            "club": "hyakkiyako_commercial_district"
-        },
+            }
+		},
+		"school": "???",
+		"club": "hyakkiyako_commercial_district",
         "img": "Nyantenmaru"
     },
     {
-        "text": {
+        "name": {
             "first_name": {
                 "ja": "リン",
                 "en": "Rin",
@@ -1047,14 +1047,14 @@
                 "ja": "七神",
                 "en": "Nanagami",
                 "ko": "나나가미"
-            },
-            "school": "???",
-            "club": "general_student_council"
-        },
+            }
+		},
+		"school": "???",
+		"club": "general_student_council",
         "img": "Rin"
     },
     {
-        "text": {
+        "name": {
             "first_name": {
                 "ja": "モモカ",
                 "en": "Momoka",
@@ -1064,14 +1064,14 @@
                 "ja": "由良木",
                 "en": "Yuragi",
                 "ko": "유라기"
-            },
-            "school": "???",
-            "club": "general_student_council"
-        },
+            }
+		},
+		"school": "???",
+		"club": "general_student_council",
         "img": "Momoka"
     },
     {
-        "text": {
+        "name": {
             "first_name": {
                 "ja": "ノノミ",
                 "en": "Nonomi",
@@ -1081,14 +1081,14 @@
                 "ja": "十六夜",
                 "en": "Izayoi",
                 "ko": "이자요이"
-            },
-            "school": "abydos",
-            "club": "masked_swimsuit_group"
-        },
+            }
+		},
+		"school": "abydos",
+		"club": "masked_swimsuit_group",
         "img": "Nonomi_Robber"
     },
     {
-        "text": {
+        "name": {
             "first_name": {
                 "ja": "セリカ",
                 "en": "Serika",
@@ -1098,14 +1098,14 @@
                 "ja": "黒見",
                 "en": "Kuromi",
                 "ko": "쿠로미"
-            },
-            "school": "abydos",
-            "club": "masked_swimsuit_group"
-        },
+            }
+		},
+		"school": "abydos",
+		"club": "masked_swimsuit_group",
         "img": "Serika_Robber"
     },
     {
-        "text": {
+        "name": {
             "first_name": {
                 "ja": "アヤネ",
                 "en": "Ayane",
@@ -1115,14 +1115,14 @@
                 "ja": "奥空",
                 "en": "Okusora",
                 "ko": "오쿠소라"
-            },
-            "school": "abydos",
-            "club": "masked_swimsuit_group"
-        },
+            }
+		},
+		"school": "abydos",
+		"club": "masked_swimsuit_group",
         "img": "Ayane_Robber"
     },
     {
-        "text": {
+        "name": {
             "first_name": {
                 "ja": "シロコ",
                 "en": "Shiroko",
@@ -1132,14 +1132,14 @@
                 "ja": "砂狼",
                 "en": "Sunaookami",
                 "ko": "스나오오카미"
-            },
-            "school": "abydos",
-            "club": "masked_swimsuit_group"
-        },
+            }
+		},
+		"school": "abydos",
+		"club": "masked_swimsuit_group",
         "img": "Shiroko_Robber"
     },
     {
-        "text": {
+        "name": {
             "first_name": {
                 "ja": "ホシノ",
                 "en": "Hoshino",
@@ -1149,14 +1149,14 @@
                 "ja": "小鳥遊",
                 "en": "Takanashi",
                 "ko": "타카나시"
-            },
-            "school": "abydos",
-            "club": "masked_swimsuit_group"
-        },
+            }
+		},
+		"school": "abydos",
+		"club": "masked_swimsuit_group",
         "img": "Hoshino_Robber"
     },
     {
-        "text": {
+        "name": {
             "first_name": {
                 "ja": "ヒフミ",
                 "en": "Hifumi",
@@ -1166,14 +1166,14 @@
                 "ja": "阿慈谷",
                 "en": "Ajitani",
                 "ko": "아지타니"
-            },
-            "school": "trinity",
-            "club": "masked_swimsuit_group"
-        },
+            }
+		},
+		"school": "trinity",
+		"club": "masked_swimsuit_group",
         "img": "Hifumi_Robber"
     },
     {
-        "text": {
+        "name": {
             "first_name": {
                 "ja": "ペロロ様",
                 "en": "Peroro Sama",
@@ -1183,14 +1183,14 @@
                 "ja": "",
                 "en": "",
                 "ko": ""
-            },
-            "school": "???",
-            "club": "momo_friends"
-        },
+            }
+		},
+		"school": "???",
+		"club": "momo_friends",
         "img": "Peroro_Sama"
     },
     {
-        "text": {
+        "name": {
             "first_name": {
                 "ja": "ハナコ",
                 "en": "Hanako",
@@ -1200,14 +1200,14 @@
                 "ja": "浦和",
                 "en": "Urawa",
                 "ko": "우라와"
-            },
-            "school": "trinity",
-            "club": "supplementary_lesson_club"
-        },
+            }
+		},
+		"school": "trinity",
+		"club": "supplementary_lesson_club",
         "img": "Hanako"
     },
     {
-        "text": {
+        "name": {
             "first_name": {
                 "ja": "アズサ",
                 "en": "Azusa",
@@ -1217,14 +1217,14 @@
                 "ja": "白洲",
                 "en": "Shirasu",
                 "ko": "시라스"
-            },
-            "school": "trinity",
-            "club": "supplementary_lesson_club"
-        },
+            }
+		},
+		"school": "trinity",
+		"club": "supplementary_lesson_club",
         "img": "Azusa"
     },
     {
-        "text": {
+        "name": {
             "first_name": {
                 "ja": "コハル",
                 "en": "Koharu",
@@ -1234,14 +1234,14 @@
                 "ja": "下江",
                 "en": "Shimoe",
                 "ko": "시모에"
-            },
-            "school": "trinity",
-            "club": "supplementary_lesson_club"
-        },
+            }
+		},
+		"school": "trinity",
+		"club": "supplementary_lesson_club",
         "img": "Koharu"
     },
     {
-        "text": {
+        "name": {
             "first_name": {
                 "ja": "ビナー",
                 "en": "Binah",
@@ -1251,14 +1251,14 @@
                 "ja": "",
                 "en": "",
                 "ko": ""
-            },
-            "school": "???",
-            "club": "decagrammaton"
-        },
+            }
+		},
+		"school": "???",
+		"club": "decagrammaton",
         "img": "Binah"
     },
     {
-        "text": {
+        "name": {
             "first_name": {
                 "ja": "ケセド",
                 "en": "Chesed",
@@ -1268,14 +1268,14 @@
                 "ja": "",
                 "en": "",
                 "ko": ""
-            },
-            "school": "???",
-            "club": "decagrammaton"
-        },
+            }
+		},
+		"school": "???",
+		"club": "decagrammaton",
         "img": "Chesed"
     },
     {
-        "text": {
+        "name": {
             "first_name": {
                 "ja": "シロ",
                 "en": "Shiro",
@@ -1285,14 +1285,14 @@
                 "ja": "",
                 "en": "",
                 "ko": ""
-            },
-            "school": "???",
-            "club": "mimesis"
-        },
+            }
+		},
+		"school": "???",
+		"club": "mimesis",
         "img": "Shiro"
     },
     {
-        "text": {
+        "name": {
             "first_name": {
                 "ja": "クロ",
                 "en": "Kuro",
@@ -1302,14 +1302,14 @@
                 "ja": "",
                 "en": "",
                 "ko": ""
-            },
-            "school": "???",
-            "club": "mimesis"
-        },
+            }
+		},
+		"school": "???",
+		"club": "mimesis",
         "img": "Kuro"
     },
     {
-        "text": {
+        "name": {
             "first_name": {
                 "ja": "ヒエロニムス",
                 "en": "Hieronymus",
@@ -1319,10 +1319,10 @@
                 "ja": "",
                 "en": "",
                 "ko": ""
-            },
-            "school": "???",
-            "club": "communio_sanctorum"
-        },
+            }
+		},
+		"school": "???",
+		"club": "communio_sanctorum",
         "img": "Hieronymus"
     }
 ]
