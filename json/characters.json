@@ -877,10 +877,10 @@
                 "ja": "天見",
                 "en": "Amami",
                 "ko": "아마미"
-            },
-            "school": "red winter",
-            "club": "special_class_no.227"
+            }
         },
+        "school": "red_winter",
+        "club": "special_class_no.227",
         "img": "Nodoka"
     },
     {
@@ -894,10 +894,10 @@
                 "ja": "連河",
                 "en": "Renkawa",
                 "ko": "렌카와"
-            },
-            "school": "red winter",
-            "club": "red_winter_secretariat"
+            }
         },
+        "school": "red_winter",
+        "club": "red_winter_secretariat",
         "img": "Cherino"
     },
     {
@@ -962,10 +962,10 @@
                 "ja": "",
                 "en": "",
                 "ko": ""
-            },
-            "school": "???",
-            "club": "shitim's_box"
+            }
         },
+        "school": "???",
+        "club": "shitim's_box",
         "img": "Arona"
     },
     {
