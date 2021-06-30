@@ -604,7 +604,8 @@
         ],
         "id": "Mashiro",
         "img": [
-            "Mashiro"
+            "Mashiro",
+            "Mashiro_Swimsuit"
         ]
     },
     {
@@ -1463,7 +1464,8 @@
         "id": "Azusa",
         "img": [
             "Azusa",
-            "Azusa_Gasmask"
+            "Azusa_Gasmask",
+            "Azusa_Swimsuit"
         ]
     },
     {
