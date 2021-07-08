@@ -1628,8 +1628,8 @@
         "name": {
             "first_name": {
                 "ja": "チンピラ",
-                "en": "Chinpira",
-                "ko": "Chinpira"
+                "en": "Chimpira",
+                "ko": "Chimpira"
             },
             "last_name": {
                 "ja": "",
@@ -1639,7 +1639,7 @@
         },
         "school": "???",
         "club": [
-            "city_chinpira"
+            "city_chimpira"
         ],
         "id": "Sukeban",
         "img": [
