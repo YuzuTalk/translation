@@ -1600,5 +1600,76 @@
         "img": [
             "Hieronymus"
         ]
+    },
+    {
+        "name": {
+            "first_name": {
+                "ja": "ヘルメット団",
+                "en": "Helmet Dan",
+                "ko": "Helmet Dan"
+            },
+            "last_name": {
+                "ja": "",
+                "en": "",
+                "ko": ""
+            }
+        },
+        "school": "???",
+        "club": [
+            "helmet_dan"
+        ],
+        "id": "Helmet_Dan",
+        "img": [
+            "Helmet_Dan_Black",
+            "Helmet_Dan_Red"
+        ]
+    },
+    {
+        "name": {
+            "first_name": {
+                "ja": "チンピラ",
+                "en": "Chinpira",
+                "ko": "Chinpira"
+            },
+            "last_name": {
+                "ja": "",
+                "en": "",
+                "ko": ""
+            }
+        },
+        "school": "???",
+        "club": [
+            "city_chinpira"
+        ],
+        "id": "Sukeban",
+        "img": [
+            "Sukeban_HMG",
+            "Sukeban_SMG",
+            "Sukeban_SR",
+            "Sukeban_SMG_Swimsuit",
+            "Sukeban_MG_Swimsuit"
+        ]
+    },
+    {
+        "name": {
+            "first_name": {
+                "ja": "魑魅一座",
+                "en": "Chimi Ichiza",
+                "ko": "Chimi Ichiza"
+            },
+            "last_name": {
+                "ja": "",
+                "en": "",
+                "ko": ""
+            }
+        },
+        "school": "???",
+        "club": [
+            "chimi_ichiza"
+        ],
+        "id": "StreetGhoste_RL_Yukata",
+        "img": [
+            "StreetGhoste_RL_Yukata"
+        ]
     }
 ]

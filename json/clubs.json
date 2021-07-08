@@ -188,5 +188,20 @@
         "ja": "コムニオ・サンクトラム",
         "en": "Communio Sanctorum",
         "ko": "코뮤니오 상토룸"
+    },
+    "helmet_dan": {
+        "ja": "カタカタヘルメット団",
+        "en": "Katakata Helmet Dan",
+        "ko": "Katakata Helmet Dan"
+    },
+    "city_chinpira": {
+        "ja": "街のチンピラ",
+        "en": "City Chinpira",
+        "ko": "City Chinpira"
+    },
+    "chimi_ichiza": {
+        "ja": "魑魅一座・路上流",
+        "en": "Chimi Ichiza Rojou Ryu",
+        "ko": "Chimi Ichiza Rojou Ryu"
     }
 }
