@@ -338,7 +338,8 @@
         ],
         "id": "Izumi",
         "img": [
-            "Izumi"
+            "Izumi",
+            "Izumi_Swimsuit"
         ]
     },
     {
@@ -428,7 +429,8 @@
         "id": "Hifumi",
         "img": [
             "Hifumi",
-            "Hifumi_Robber"
+            "Hifumi_Robber",
+            "Hifumi_Swimsuit"
         ]
     },
     {
@@ -538,7 +540,8 @@
         ],
         "id": "Tsurugi",
         "img": [
-            "Tsurugi"
+            "Tsurugi",
+            "Tsurugi_Swimsuit"
         ]
     },
     {
