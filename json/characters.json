@@ -316,7 +316,8 @@
         ],
         "id": "Iori",
         "img": [
-            "Iori"
+            "Iori",
+            "Iori_Swimsuit"
         ]
     },
     {
@@ -361,7 +362,8 @@
         ],
         "id": "Hina",
         "img": [
-            "Hina"
+            "Hina",
+            "Hina_Swimsuit"
         ]
     },
     {
@@ -1673,6 +1675,76 @@
         "id": "StreetGhoste_RL_Yukata",
         "img": [
             "StreetGhoste_RL_Yukata"
+        ]
+    },
+    {
+        "name": {
+            "first_name": {
+                "ja": "アコ",
+                "en": "Ako",
+                "ko": "Ako"
+            },
+            "last_name": {
+                "ja": "天雨",
+                "en": "Amau",
+                "ko": "Amau"
+            }
+        },
+        "school": "gehenna",
+        "club": [
+            "disciplinary_committee"
+        ],
+        "id": "Ako",
+        "img": [
+            "Ako"
+        ]
+    },
+    {
+        "name": {
+            "first_name": {
+                "ja": "カイテンジャー",
+                "en": "Kaitenger",
+                "ko": "Kaitenger"
+            },
+            "last_name": {
+                "ja": "",
+                "en": "",
+                "ko": ""
+            }
+        },
+        "school": "???",
+        "club": [
+            "kaitenger"
+        ],
+        "id": "Kaitenger",
+        "img": [
+            "Kaitenger_Red",
+            "Kaitenger_Black",
+            "Kaitenger_Green",
+            "Kaitenger_Yellow",
+            "Kaitenger_Pink"
+        ]
+    },
+    {
+        "name": {
+            "first_name": {
+                "ja": "KAITEN FX Mk.0",
+                "en": "KAITEN FX Mk.0",
+                "ko": "KAITEN FX Mk.0"
+            },
+            "last_name": {
+                "ja": "",
+                "en": "",
+                "ko": ""
+            }
+        },
+        "school": "???",
+        "club": [
+            "kaitenger"
+        ],
+        "id": "KAITEN_FX_Mk_0",
+        "img": [
+            "KaitenFxMk0"
         ]
     }
 ]
