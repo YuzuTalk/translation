@@ -14,7 +14,7 @@
         },
         "school": "abydos",
         "club": [
-            "measures_committee",
+            "countermeasures_council",
             "masked_swimsuit_group"
         ],
         "id": "Nonomi",
@@ -38,7 +38,7 @@
         },
         "school": "abydos",
         "club": [
-            "measures_committee",
+            "countermeasures_council",
             "masked_swimsuit_group",
             "sibaseki_ramen"
         ],
@@ -64,7 +64,7 @@
         },
         "school": "abydos",
         "club": [
-            "measures_committee",
+            "countermeasures_council",
             "masked_swimsuit_group"
         ],
         "id": "Ayane",
@@ -88,7 +88,7 @@
         },
         "school": "abydos",
         "club": [
-            "measures_committee",
+            "countermeasures_council",
             "masked_swimsuit_group"
         ],
         "id": "Shiroko",
@@ -113,7 +113,7 @@
         },
         "school": "abydos",
         "club": [
-            "measures_committee",
+            "countermeasures_council",
             "masked_swimsuit_group"
         ],
         "id": "Hoshino",
@@ -1377,7 +1377,7 @@
         },
         "school": "???",
         "club": [
-            "general_student_council"
+            "prime_student_council"
         ],
         "id": "Rin",
         "img": [
@@ -1399,7 +1399,7 @@
         },
         "school": "???",
         "club": [
-            "general_student_council"
+            "prime_student_council"
         ],
         "id": "Momoka",
         "img": [
