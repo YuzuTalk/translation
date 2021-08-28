@@ -1007,7 +1007,8 @@
         ],
         "id": "Shun",
         "img": [
-            "Shun"
+            "Shun",
+            "Shun_Little_Girl"
         ]
     },
     {
@@ -1746,6 +1747,28 @@
         "id": "KAITEN_FX_Mk_0",
         "img": [
             "KaitenFxMk0"
+        ]
+    },
+    {
+        "name": {
+            "first_name": {
+                "ja": "キリノ",
+                "en": "Kirino",
+                "ko": "Kirino"
+            },
+            "last_name": {
+                "ja": "中務",
+                "en": "Nakatsukasa",
+                "ko": "Nakatsukasa"
+            }
+        },
+        "school": "valkyrie",
+        "club": [
+            "community_safety_bureau"
+        ],
+        "id": "Kirino",
+        "img": [
+            "Kirino"
         ]
     }
 ]
