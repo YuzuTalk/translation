@@ -433,7 +433,9 @@
         "img": [
             "Hifumi",
             "Hifumi_Robber",
-            "Hifumi_Swimsuit"
+            "Hifumi_Swimsuit",
+            "Hifumi_Gym",
+            "Hifumi_School_Swimsuit"
         ]
     },
     {
@@ -451,7 +453,7 @@
         },
         "school": "trinity",
         "club": [
-            "order_of_the_relief"
+            "remedial_knights"
         ],
         "id": "Hanae",
         "img": [
@@ -629,7 +631,7 @@
         },
         "school": "trinity",
         "club": [
-            "order_of_the_relief"
+            "remedial_knights"
         ],
         "id": "Serina",
         "img": [
@@ -1454,7 +1456,8 @@
         "id": "Hanako",
         "img": [
             "Hanako",
-            "Hanako_Swimsuit"
+            "Hanako_Swimsuit",
+            "Hanako_Gym"
         ]
     },
     {
@@ -1478,7 +1481,11 @@
         "img": [
             "Azusa",
             "Azusa_Gasmask",
-            "Azusa_Swimsuit"
+            "Azusa_Swimsuit",
+            "Azusa_Gym",
+            "Azusa_Gym_Masked",
+            "Azusa_School_Swimsuit",
+            "Azusa_School_Swimsuit_Masked"
         ]
     },
     {
@@ -1500,7 +1507,9 @@
         ],
         "id": "Koharu",
         "img": [
-            "Koharu"
+            "Koharu",
+            "Koharu_Gym",
+            "Koharu_School_Swimsuit"
         ]
     },
     {
