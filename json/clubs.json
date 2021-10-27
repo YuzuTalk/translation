@@ -24,9 +24,9 @@
         "en": "Disciplinary Committee",
         "ko": "풍기위원회"
     },
-    "supplementary_lesson_club": {
+    "makeup_work_club": {
         "ja": "補習授業部",
-        "en": "Supplementary Lesson Club",
+        "en": "Makeup Work Club",
         "ko": "보충수업부"
     },
     "remedial_knights": {
@@ -39,9 +39,9 @@
         "en": "Library Committee",
         "ko": "도서위원회"
     },
-    "justice_realization_committee": {
+    "justice_task_force": {
         "ja": "正義実現委員会",
-        "en": "Justice Realization Committee",
+        "en": "Justice Task Force",
         "ko": "정의실현위원회"
     },
     "after_school_sweets_club": {
@@ -49,9 +49,9 @@
         "en": "After-School Sweets Club",
         "ko": "방과후 스위트부"
     },
-    "trinity_vigilante": {
+    "vigilante_crew": {
         "ja": "トリニティ自警団",
-        "en": "Trinity Vigilante",
+        "en": "Vigilante Crew",
         "ko": "트리니티 자경단"
     },
     "seminar": {
@@ -64,9 +64,9 @@
         "en": "Cleaning & Clearing",
         "ko": "Cleaning & Clearing"
     },
-    "peculiar_phenomenon_special_affairs_department": {
+    "super_phenomenon_task_force": {
         "ja": "特異現象特務部",
-        "en": "Peculiar phenomenon Special Affairs Department",
+        "en": "Super Phenomenon Task Force",
         "ko": "특이현상 수사부"
     },
     "veritas": {
@@ -79,9 +79,9 @@
         "en": "Engineering Club",
         "ko": "엔지니어부"
     },
-    "gym_training_department": {
+    "athletics_training_club": {
         "ja": "トレーニング部",
-        "en": "Gym Training Department",
+        "en": "Athletics Training Club",
         "ko": "트레이닝부"
     },
     "game_development_department": {
@@ -89,24 +89,24 @@
         "en": "Game Development Department",
         "ko": "게임개발부"
     },
-    "training_support_department": {
+    "plum_blossom_garden": {
         "ja": "訓育支援部「梅花園」",
-        "en": "Training Support Department \"Baikaen\"",
+        "en": "Plum Blossom Garden",
         "ko": "훈육지원부 「매화원」"
     },
-    "chinese_alchemy_research_society": {
+    "eastern_alchemy_society": {
         "ja": "錬丹術研究会",
-        "en": "Chinese alchemy Research Society",
+        "en": "Eastern Alchemy Society",
         "ko": "연단술 연구회"
     },
-    "festival_management_committee": {
+    "planning_committee": {
         "ja": "お祭り運営委員会",
-        "en": "Festival Management Committee",
+        "en": "Planning Committee",
         "ko": "축제운영위원회"
     },
-    "training_department": {
+    "inner_discipline_club": {
         "ja": "修行部",
-        "en": "Training Department",
+        "en": "Inner Discipline Club",
         "ko": "수행부"
     },
     "ninjutsu_research_department": {
@@ -213,5 +213,15 @@
         "ja": "生活安全局",
         "en": "Community Safety Bureau",
         "ko": "생활안전국"
+    },
+    "sisterhood": {
+        "ja": "シスターフッド",
+        "en": "Sisterhood",
+        "ko": "Sisterhood"
+    },
+    "the_library_of_lore": {
+        "ja": "The Library of Lore",
+        "en": "The Library of Lore",
+        "ko": "The Library of Lore"
     }
 }

@@ -426,7 +426,7 @@
         },
         "school": "trinity",
         "club": [
-            "supplementary_lesson_club",
+            "makeup_work_club",
             "masked_swimsuit_group"
         ],
         "id": "Hifumi",
@@ -497,7 +497,7 @@
         },
         "school": "trinity",
         "club": [
-            "justice_realization_committee"
+            "justice_task_force"
         ],
         "id": "Hasumi",
         "img": [
@@ -541,7 +541,7 @@
         },
         "school": "trinity",
         "club": [
-            "justice_realization_committee"
+            "justice_task_force"
         ],
         "id": "Tsurugi",
         "img": [
@@ -586,7 +586,7 @@
         },
         "school": "trinity",
         "club": [
-            "trinity_vigilante"
+            "vigilante_crew"
         ],
         "id": "Suzumi",
         "img": [
@@ -608,7 +608,7 @@
         },
         "school": "trinity",
         "club": [
-            "justice_realization_committee"
+            "justice_task_force"
         ],
         "id": "Mashiro",
         "img": [
@@ -698,7 +698,7 @@
         },
         "school": "millennium",
         "club": [
-            "peculiar_phenomenon_special_affairs_department"
+            "super_phenomenon_task_force"
         ],
         "id": "Eimi",
         "img": [
@@ -855,7 +855,7 @@
         },
         "school": "millennium",
         "club": [
-            "gym_training_department"
+            "athletics_training_club"
         ],
         "id": "Sumire",
         "img": [
@@ -1009,7 +1009,7 @@
         },
         "school": "shanhaijing",
         "club": [
-            "training_support_department"
+            "plum_blossom_garden"
         ],
         "id": "Shun",
         "img": [
@@ -1032,7 +1032,7 @@
         },
         "school": "shanhaijing",
         "club": [
-            "chinese_alchemy_research_society"
+            "eastern_alchemy_society"
         ],
         "id": "Saya",
         "img": [
@@ -1055,7 +1055,7 @@
         },
         "school": "hyakkiyako",
         "club": [
-            "festival_management_committee"
+            "planning_committee"
         ],
         "id": "Pina",
         "img": [
@@ -1077,7 +1077,7 @@
         },
         "school": "hyakkiyako",
         "club": [
-            "training_department"
+            "inner_discipline_club"
         ],
         "id": "Tsubaki",
         "img": [
@@ -1099,7 +1099,7 @@
         },
         "school": "hyakkiyako",
         "club": [
-            "festival_management_committee"
+            "planning_committee"
         ],
         "id": "Shizuko",
         "img": [
@@ -1451,7 +1451,7 @@
         },
         "school": "trinity",
         "club": [
-            "supplementary_lesson_club"
+            "makeup_work_club"
         ],
         "id": "Hanako",
         "img": [
@@ -1475,7 +1475,7 @@
         },
         "school": "trinity",
         "club": [
-            "supplementary_lesson_club"
+            "makeup_work_club"
         ],
         "id": "Azusa",
         "img": [
@@ -1503,7 +1503,7 @@
         },
         "school": "trinity",
         "club": [
-            "supplementary_lesson_club"
+            "makeup_work_club"
         ],
         "id": "Koharu",
         "img": [
@@ -1783,6 +1783,116 @@
         "id": "Kirino",
         "img": [
             "Kirino"
+        ]
+    },
+    {
+        "name": {
+            "first_name": {
+                "ja": "マリー",
+                "en": "Mari",
+                "ko": "Mari"
+            },
+            "last_name": {
+                "ja": "伊落",
+                "en": "Iochi",
+                "ko": "Iochi"
+            }
+        },
+        "school": "trinity",
+        "club": [
+            "sisterhood"
+        ],
+        "id": "Mari",
+        "img": [
+            "Mari"
+        ]
+    },
+    {
+        "name": {
+            "first_name": {
+                "ja": "ナツ",
+                "en": "Natsu",
+                "ko": "Natsu"
+            },
+            "last_name": {
+                "ja": "柚鳥",
+                "en": "Yutori",
+                "ko": "Yutori"
+            }
+        },
+        "school": "trinity",
+        "club": [
+            "after_school_sweets_club"
+        ],
+        "id": "Natsu",
+        "img": [
+            "Natsu"
+        ]
+    },
+    {
+        "name": {
+            "first_name": {
+                "ja": "ゴルコンダ",
+                "en": "Golconde",
+                "ko": "Golconde"
+            },
+            "last_name": {
+                "ja": "",
+                "en": "",
+                "ko": ""
+            }
+        },
+        "school": "???",
+        "club": [
+            "gematria"
+        ],
+        "id": "Golconde",
+        "img": [
+            "Golconde"
+        ]
+    },
+    {
+        "name": {
+            "first_name": {
+                "ja": "デカルコマニー",
+                "en": "Décalcomanie",
+                "ko": "Décalcomanie"
+            },
+            "last_name": {
+                "ja": "",
+                "en": "",
+                "ko": ""
+            }
+        },
+        "school": "???",
+        "club": [
+            "gematria"
+        ],
+        "id": "Décalcomanie",
+        "img": [
+            "Décalcomanie"
+        ]
+    },
+    {
+        "name": {
+            "first_name": {
+                "ja": "ペロロジラ",
+                "en": "Perorozilla",
+                "ko": "Perorozilla"
+            },
+            "last_name": {
+                "ja": "",
+                "en": "",
+                "ko": ""
+            }
+        },
+        "school": "???",
+        "club": [
+            "the_library_of_lore"
+        ],
+        "id": "Perorozilla",
+        "img": [
+            "Perorozilla"
         ]
     }
 ]
