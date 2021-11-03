@@ -1894,5 +1894,76 @@
         "img": [
             "Perorozilla"
         ]
+    },
+    {
+        "name": {
+            "first_name": {
+                "ja": "キヴォトス市民",
+                "en": "Kivotos Citizen",
+                "ko": "Kivotos Citizen"
+            },
+            "last_name": {
+                "ja": "",
+                "en": "",
+                "ko": ""
+            }
+        },
+        "school": "???",
+        "club": [
+            "citizen"
+        ],
+        "id": "Citizen",
+        "img": [
+            "Citizen_Animal_1",
+            "Citizen_Animal_6",
+            "Citizen_Animal_6_Bandage",
+            "Citizen_Borot_1",
+            "Citizen_Borot_2",
+            "Market_Animal_2"
+        ]
+    },
+    {
+        "name": {
+            "first_name": {
+                "ja": "風紀委員",
+                "en": "Disciplinary Committee Member",
+                "ko": "Disciplinary Committee Member"
+            },
+            "last_name": {
+                "ja": "",
+                "en": "",
+                "ko": ""
+            }
+        },
+        "school": "gehenna",
+        "club": [
+            "disciplinary_committee"
+        ],
+        "id": "Disciplinary_Committee_Member",
+        "img": [
+            "Fuuki_Normal_1"
+        ]
+    },
+    {
+        "name": {
+            "first_name": {
+                "ja": "正義実現委員会部員",
+                "en": "Justice Task Force Member",
+                "ko": "Justice Task Force Member"
+            },
+            "last_name": {
+                "ja": "",
+                "en": "",
+                "ko": ""
+            }
+        },
+        "school": "trinity",
+        "club": [
+            "justice_task_force"
+        ],
+        "id": "Justice_Task_Force_Member",
+        "img": [
+            "Justice_Normal_1"
+        ]
     }
 ]

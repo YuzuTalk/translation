@@ -223,5 +223,10 @@
         "ja": "The Library of Lore",
         "en": "The Library of Lore",
         "ko": "The Library of Lore"
+    },
+    "citizen": {
+        "ja": "市民",
+        "en": "Citizen",
+        "ko": "Citizen"
     }
 }
