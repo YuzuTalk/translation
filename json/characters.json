@@ -1917,8 +1917,6 @@
             "Citizen_Animal_1",
             "Citizen_Animal_6",
             "Citizen_Animal_6_Bandage",
-            "Citizen_Borot_1",
-            "Citizen_Borot_2",
             "Market_Animal_2"
         ]
     },
@@ -1964,6 +1962,29 @@
         "id": "Justice_Task_Force_Member",
         "img": [
             "Justice_Normal_1"
+        ]
+    },
+    {
+        "name": {
+            "first_name": {
+                "ja": "アンドロイド",
+                "en": "Android",
+                "ko": "Android"
+            },
+            "last_name": {
+                "ja": "",
+                "en": "",
+                "ko": ""
+            }
+        },
+        "school": "???",
+        "club": [
+            "citizen"
+        ],
+        "id": "Android",
+        "img": [
+            "Citizen_Borot_1",
+            "Citizen_Borot_2"
         ]
     }
 ]
