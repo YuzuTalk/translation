@@ -141,7 +141,7 @@
     },
     "shitim's_box": {
         "ja": "シッテムの箱",
-        "en": "Shitim's Box",
+        "en": "Shittim Chests",
         "ko": "싯딤의 상자"
     },
     "kaiser_pmc": {
@@ -228,5 +228,10 @@
         "ja": "市民",
         "en": "Citizen",
         "ko": "시민"
+    },
+    "tea_party": {
+        "ja": "ティーパーティー",
+        "en": "Tea Party",
+        "ko": "Tea Party"
     }
 }

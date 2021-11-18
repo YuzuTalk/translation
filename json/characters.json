@@ -1986,5 +1986,49 @@
             "Citizen_Borot_1",
             "Citizen_Borot_2"
         ]
+    },
+    {
+        "name": {
+            "first_name": {
+                "ja": "ナギサ",
+                "en": "Nagisa",
+                "ko": "Nagisa"
+            },
+            "last_name": {
+                "ja": "桐藤",
+                "en": "Kirifuji",
+                "ko": "Kirifuji"
+            }
+        },
+        "school": "trinity",
+        "club": [
+            "tea_party"
+        ],
+        "id": "Nagisa",
+        "img": [
+            "Nagisa"
+        ]
+    },
+    {
+        "name": {
+            "first_name": {
+                "ja": "ミカ",
+                "en": "Mika",
+                "ko": "Mika"
+            },
+            "last_name": {
+                "ja": "聖園",
+                "en": "Misono",
+                "ko": "Misono"
+            }
+        },
+        "school": "trinity",
+        "club": [
+            "tea_party"
+        ],
+        "id": "Mika",
+        "img": [
+            "Mika"
+        ]
     }
 ]
