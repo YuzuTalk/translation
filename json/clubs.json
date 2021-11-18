@@ -67,7 +67,7 @@
     "super_phenomenon_task_force": {
         "ja": "特異現象特務部",
         "en": "Super Phenomenon Task Force",
-        "ko": "특이현상 수사부"
+        "ko": "초현상특무부"
     },
     "veritas": {
         "ja": "ヴェリタス",
@@ -137,7 +137,7 @@
     "angel_24": {
         "ja": "エンジェル24",
         "en": "Angel 24",
-        "ko": "앤젤24 편의점"
+        "ko": "엔젤24 편의점"
     },
     "shitim's_box": {
         "ja": "シッテムの箱",
@@ -232,6 +232,6 @@
     "tea_party": {
         "ja": "ティーパーティー",
         "en": "Tea Party",
-        "ko": "Tea Party"
+        "ko": "티 파티"
     }
 }
