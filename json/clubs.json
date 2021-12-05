@@ -14,9 +14,9 @@
         "en": "Gourmet Research Society",
         "ko": "미식연구회"
     },
-    "private_eye_64": {
+    "problem_solver_68": {
         "ja": "便利屋68",
-        "en": "Private Eye 68",
+        "en": "Problem Solver 68",
         "ko": "흥신소68"
     },
     "disciplinary_committee": {
@@ -233,5 +233,15 @@
         "ja": "ティーパーティー",
         "en": "Tea Party",
         "ko": "티 파티"
+    },
+    "onsen_development_club": {
+        "ja": "温泉開発部",
+        "en": "Onsen Development Club",
+        "ko": "Onsen Development Club"
+    },
+    "construction_department": {
+        "ja": "工務部",
+        "en": "Construction Department",
+        "ko": "Construction Department"
     }
 }

@@ -181,7 +181,7 @@
         },
         "school": "gehenna",
         "club": [
-            "private_eye_64"
+            "problem_solver_68"
         ],
         "id": "Mutsuki",
         "img": [
@@ -207,7 +207,8 @@
         ],
         "id": "Chinatsu",
         "img": [
-            "Chinatsu"
+            "Chinatsu",
+            "Chinatsu_Hotspring"
         ]
     },
     {
@@ -225,7 +226,7 @@
         },
         "school": "gehenna",
         "club": [
-            "private_eye_64"
+            "problem_solver_68"
         ],
         "id": "Haruka",
         "img": [
@@ -269,7 +270,7 @@
         },
         "school": "gehenna",
         "club": [
-            "private_eye_64"
+            "problem_solver_68"
         ],
         "id": "Kayoko",
         "img": [
@@ -291,7 +292,7 @@
         },
         "school": "gehenna",
         "club": [
-            "private_eye_64"
+            "problem_solver_68"
         ],
         "id": "Aru",
         "img": [
@@ -1169,7 +1170,8 @@
         ],
         "id": "Nodoka",
         "img": [
-            "Nodoka"
+            "Nodoka",
+            "Nodoka_Hotspring"
         ]
     },
     {
@@ -1191,7 +1193,8 @@
         ],
         "id": "Cherino",
         "img": [
-            "Cherino"
+            "Cherino",
+            "Cherino_Hotspring"
         ]
     },
     {
@@ -2029,6 +2032,117 @@
         "id": "Mika",
         "img": [
             "Mika"
+        ]
+    },
+    {
+        "name": {
+            "first_name": {
+                "ja": "シグレ",
+                "en": "Shigure",
+                "ko": "Shigure"
+            },
+            "last_name": {
+                "ja": "間宵",
+                "en": "Mayoi",
+                "ko": "Mayoi"
+            }
+        },
+        "school": "red_winter",
+        "club": [
+            "special_class_no.227"
+        ],
+        "id": "Shigure",
+        "img": [
+            "Shigure",
+            "Shigure_Hotspring"
+        ]
+    },
+    {
+        "name": {
+            "first_name": {
+                "ja": "マリナ",
+                "en": "Marina",
+                "ko": "Marina"
+            },
+            "last_name": {
+                "ja": "池倉",
+                "en": "Ikekura",
+                "ko": "Ikekura"
+            }
+        },
+        "school": "red_winter",
+        "club": [
+            "red_winter_secretariat"
+        ],
+        "id": "Marina",
+        "img": [
+            "Marina"
+        ]
+    },
+    {
+        "name": {
+            "first_name": {
+                "ja": "トモエ",
+                "en": "Tomoe",
+                "ko": "Tomoe"
+            },
+            "last_name": {
+                "ja": "佐城",
+                "en": "Sashiro",
+                "ko": "Sashiro"
+            }
+        },
+        "school": "red_winter",
+        "club": [
+            "red_winter_secretariat"
+        ],
+        "id": "Tomoe",
+        "img": [
+            "Tomoe"
+        ]
+    },
+    {
+        "name": {
+            "first_name": {
+                "ja": "メグ",
+                "en": "Megu",
+                "ko": "Megu"
+            },
+            "last_name": {
+                "ja": "下倉",
+                "en": "Shimokura",
+                "ko": "Shimokura"
+            }
+        },
+        "school": "gehenna",
+        "club": [
+            "onsen_development_club"
+        ],
+        "id": "Megu",
+        "img": [
+            "Megu"
+        ]
+    },
+    {
+        "name": {
+            "first_name": {
+                "ja": "ミノリ",
+                "en": "Minori",
+                "ko": "Minori"
+            },
+            "last_name": {
+                "ja": "安守",
+                "en": "Yasumori",
+                "ko": "Yasumori"
+            }
+        },
+        "school": "red_winter",
+        "club": [
+            "construction_department"
+        ],
+        "id": "Minori",
+        "img": [
+            "Minori"
         ]
     }
 ]
