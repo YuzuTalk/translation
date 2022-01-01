@@ -46,7 +46,8 @@
         "img": [
             "Serika",
             "Serika_Robber",
-            "Serika_Shibaseki"
+            "Serika_Shibaseki",
+            "Serika_Newyear"
         ]
     },
     {
@@ -185,7 +186,8 @@
         ],
         "id": "Mutsuki",
         "img": [
-            "Mutsuki"
+            "Mutsuki",
+            "Mutsuki_Newyear"
         ]
     },
     {
@@ -230,7 +232,8 @@
         ],
         "id": "Haruka",
         "img": [
-            "Haruka"
+            "Haruka",
+            "Haruka_Newyear"
         ]
     },
     {
@@ -274,7 +277,8 @@
         ],
         "id": "Kayoko",
         "img": [
-            "Kayoko"
+            "Kayoko",
+            "Kayoko_Newyear"
         ]
     },
     {
@@ -296,7 +300,8 @@
         ],
         "id": "Aru",
         "img": [
-            "Aru"
+            "Aru",
+            "Aru_Newyear"
         ]
     },
     {
@@ -1920,7 +1925,8 @@
             "Citizen_Animal_1",
             "Citizen_Animal_6",
             "Citizen_Animal_6_Bandage",
-            "Market_Animal_2"
+            "Market_Animal_2",
+            "Citizen_animal7"
         ]
     },
     {
