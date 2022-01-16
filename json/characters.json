@@ -370,7 +370,8 @@
         "id": "Hina",
         "img": [
             "Hina",
-            "Hina_Swimsuit"
+            "Hina_Swimsuit",
+            "Hina_Nightware"
         ]
     },
     {
@@ -2149,6 +2150,73 @@
         "id": "Minori",
         "img": [
             "Minori"
+        ]
+    },
+    {
+        "name": {
+            "first_name": {
+                "ja": "セイア",
+                "en": "Seia",
+                "ko": "Seia"
+            },
+            "last_name": {
+                "ja": "百合園",
+                "en": "Yurizono",
+                "ko": "Yurizono"
+            }
+        },
+        "school": "trinity",
+        "club": [
+            "tea_party"
+        ],
+        "id": "Seia",
+        "img": [
+            "Seia"
+        ]
+    },
+    {
+        "name": {
+            "first_name": {
+                "ja": "ティーパーティー",
+                "en": "Tea Party",
+                "ko": "티 파티"
+            },
+            "last_name": {
+                "ja": "",
+                "en": "",
+                "ko": ""
+            }
+        },
+        "school": "trinity",
+        "club": [
+            "tea_party"
+        ],
+        "id": "Tea_party",
+        "img": [
+            "Teaparty_Escort",
+            "Teaparty_Administrator"
+        ]
+    },
+    {
+        "name": {
+            "first_name": {
+                "ja": "シスターフッド",
+                "en": "Sisterhood",
+                "ko": "시스터후드"
+            },
+            "last_name": {
+                "ja": "",
+                "en": "",
+                "ko": ""
+            }
+        },
+        "school": "trinity",
+        "club": [
+            "sisterhood"
+        ],
+        "id": "Sisterhood",
+        "img": [
+            "Sisterhood_Executive"
         ]
     }
 ]
