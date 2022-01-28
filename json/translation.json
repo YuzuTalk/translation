@@ -81,12 +81,12 @@
     },
     "kizuna": {
         "ja": "絆",
-        "en": "Kizuna",
+        "en": "Relationship",
         "ko": "인연"
     },
     "kizuna_event": {
         "ja": "絆イベント",
-        "en": "Kizuna event",
+        "en": "Relationship Event",
         "ko": "인연 이벤트"
     },
     "image": {
@@ -179,9 +179,9 @@
         "en": "Send",
         "ko": "전송"
     },
-    "send_back": {
+    "replay": {
         "ja": "返信する",
-        "en": "Send back",
+        "en": "Replay",
         "ko": "답장하기"
     },
     "sort": {
@@ -211,7 +211,7 @@
     },
     "to_kizuna_story": {
         "ja": "$value$の絆ストーリーへ",
-        "en": "To $value$'s Kizuna story",
+        "en": "To $value$'s Relationship Story",
         "ko": "$value$의 인연 스토리로"
     },
     "trash_can": {

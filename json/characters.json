@@ -2157,12 +2157,12 @@
             "first_name": {
                 "ja": "セイア",
                 "en": "Seia",
-                "ko": "Seia"
+                "ko": "세이아"
             },
             "last_name": {
                 "ja": "百合園",
                 "en": "Yurizono",
-                "ko": "Yurizono"
+                "ko": "유리조노"
             }
         },
         "school": "trinity",
@@ -2217,6 +2217,50 @@
         "id": "Sisterhood",
         "img": [
             "Sisterhood_Executive"
+        ]
+    },
+    {
+        "name": {
+            "first_name": {
+                "ja": "ワカモ",
+                "en": "Wakamo",
+                "ko": "와카모"
+            },
+            "last_name": {
+                "ja": "狐坂",
+                "en": "Kosaka",
+                "ko": "코사카"
+            }
+        },
+        "school": "hyakkiyako",
+        "club": [
+            ""
+        ],
+        "id": "Wakamo",
+        "img": [
+            "Wakamo"
+        ]
+    },
+    {
+        "name": {
+            "first_name": {
+                "ja": "フブキ",
+                "en": "Fubuki",
+                "ko": "후부키"
+            },
+            "last_name": {
+                "ja": "合歓垣",
+                "en": "Nemugaki",
+                "ko": "네무가키"
+            }
+        },
+        "school": "valkyrie",
+        "club": [
+            "community_safety_bureau"
+        ],
+        "id": "Fubuki",
+        "img": [
+            "Fubuki"
         ]
     }
 ]
