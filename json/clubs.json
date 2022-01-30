@@ -243,5 +243,10 @@
         "ja": "工務部",
         "en": "Construction Department",
         "ko": "공사부"
+    },
+    "emergency_medicine_club": {
+        "ja": "救急医学部",
+        "en": "Emargency Medicine Club",
+        "ko": "구급의학부"
     }
 }

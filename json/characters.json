@@ -2262,5 +2262,49 @@
         "img": [
             "Fubuki"
         ]
+    },
+    {
+        "name": {
+            "first_name": {
+                "ja": "チヒロ",
+                "en": "Chihiro",
+                "ko": "치히로"
+            },
+            "last_name": {
+                "ja": "各務",
+                "en": "Kagami",
+                "ko": "카가미"
+            }
+        },
+        "school": "millennium",
+        "club": [
+            "veritas"
+        ],
+        "id": "Chihiro",
+        "img": [
+            "Chihiro"
+        ]
+    },
+    {
+        "name": {
+            "first_name": {
+                "ja": "セナ",
+                "en": "Sena",
+                "ko": "세나"
+            },
+            "last_name": {
+                "ja": "氷室",
+                "en": "Himuro",
+                "ko": "히무로"
+            }
+        },
+        "school": "gehenna",
+        "club": [
+            "emergency_medicine_club"
+        ],
+        "id": "Sena",
+        "img": [
+            "Sena"
+        ]
     }
 ]
