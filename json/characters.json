@@ -1062,7 +1062,7 @@
         },
         "school": "hyakkiyako",
         "club": [
-            "planning_committee"
+            "festival_operations_department"
         ],
         "id": "Pina",
         "img": [
@@ -1106,7 +1106,7 @@
         },
         "school": "hyakkiyako",
         "club": [
-            "planning_committee"
+            "festival_operations_department"
         ],
         "id": "Shizuko",
         "img": [
@@ -2305,6 +2305,50 @@
         "id": "Sena",
         "img": [
             "Sena"
+        ]
+    },
+    {
+        "name": {
+            "first_name": {
+                "ja": "ミモリ",
+                "en": "Mimori",
+                "ko": "미모리"
+            },
+            "last_name": {
+                "ja": "水羽",
+                "en": "Mizuha",
+                "ko": "미즈하"
+            }
+        },
+        "school": "hyakkiyako",
+        "club": [
+            "inner_discipline_club"
+        ],
+        "id": "Mimori",
+        "img": [
+            "Mimori"
+        ]
+    },
+    {
+        "name": {
+            "first_name": {
+                "ja": "ホド",
+                "en": "Hod",
+                "ko": "호도"
+            },
+            "last_name": {
+                "ja": "",
+                "en": "",
+                "ko": ""
+            }
+        },
+        "school": "???",
+        "club": [
+            "decagrammaton"
+        ],
+        "id": "Hod",
+        "img": [
+            "Hod"
         ]
     }
 ]
