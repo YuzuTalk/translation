@@ -2350,5 +2350,49 @@
         "img": [
             "Hod"
         ]
+    },
+    {
+        "name": {
+            "first_name": {
+                "ja": "ウイ",
+                "en": "Ui",
+                "ko": "우이"
+            },
+            "last_name": {
+                "ja": "小関",
+                "en": "Kozeki",
+                "ko": "코제키"
+            }
+        },
+        "school": "trinity",
+        "club": [
+            "library_committee"
+        ],
+        "id": "Ui",
+        "img": [
+            "Ui"
+        ]
+    },
+    {
+        "name": {
+            "first_name": {
+                "ja": "ヒナタ",
+                "en": "Hinata",
+                "ko": "히나타"
+            },
+            "last_name": {
+                "ja": "若葉",
+                "en": "Wakaba",
+                "ko": "와카바"
+            }
+        },
+        "school": "trinity",
+        "club": [
+            "sisterhood"
+        ],
+        "id": "Hinata",
+        "img": [
+            "Hinata"
+        ]
     }
 ]
