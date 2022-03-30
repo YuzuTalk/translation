@@ -2394,5 +2394,115 @@
         "img": [
             "Hinata"
         ]
+    },
+    {
+        "name": {
+            "first_name": {
+                "ja": "ミヤコ",
+                "en": "Miyako",
+                "ko": "미야코"
+            },
+            "last_name": {
+                "ja": "月雪",
+                "en": "Tsukiyuki",
+                "ko": "츠키유키"
+            }
+        },
+        "school": "srt",
+        "club": [
+            "rabbit_platoon"
+        ],
+        "id": "Miyako",
+        "img": [
+            "Miyako"
+        ]
+    },
+    {
+        "name": {
+            "first_name": {
+                "ja": "サキ",
+                "en": "Saki",
+                "ko": "사키"
+            },
+            "last_name": {
+                "ja": "空井",
+                "en": "Sorai",
+                "ko": "소라이"
+            }
+        },
+        "school": "srt",
+        "club": [
+            "rabbit_platoon"
+        ],
+        "id": "Saki",
+        "img": [
+            "Saki"
+        ]
+    },
+    {
+        "name": {
+            "first_name": {
+                "ja": "ミユ",
+                "en": "Miyu",
+                "ko": "미유"
+            },
+            "last_name": {
+                "ja": "霞沢",
+                "en": "Kasumizawa",
+                "ko": "카스미자와"
+            }
+        },
+        "school": "srt",
+        "club": [
+            "rabbit_platoon"
+        ],
+        "id": "Miyu",
+        "img": [
+            "Miyu"
+        ]
+    },
+    {
+        "name": {
+            "first_name": {
+                "ja": "モエ",
+                "en": "Moe",
+                "ko": "모에"
+            },
+            "last_name": {
+                "ja": "風倉",
+                "en": "Kazekura",
+                "ko": "카제쿠라"
+            }
+        },
+        "school": "srt",
+        "club": [
+            "rabbit_platoon"
+        ],
+        "id": "Moe",
+        "img": [
+            "Moe"
+        ]
+    },
+    {
+        "name": {
+            "first_name": {
+                "ja": "アユム",
+                "en": "Ayumu",
+                "ko": "아유무"
+            },
+            "last_name": {
+                "ja": "岩櫃",
+                "en": "Iwabitsu",
+                "ko": "이와비츠"
+            }
+        },
+        "school": "???",
+        "club": [
+            "prime_student_council"
+        ],
+        "id": "Ayumu",
+        "img": [
+            "Ayumu"
+        ]
     }
 ]

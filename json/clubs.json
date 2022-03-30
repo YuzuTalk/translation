@@ -248,5 +248,10 @@
         "ja": "救急医学部",
         "en": "Emargency Medicine Club",
         "ko": "구급의학부"
+    },
+    "rabbit_platoon": {
+        "ja": "RABBIT小隊",
+        "en": "RABBIT Platoon",
+        "ko": "RABBIT 소대"
     }
 }
