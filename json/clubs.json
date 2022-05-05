@@ -199,10 +199,10 @@
         "en": "City Chimpira",
         "ko": "길거리 양아치"
     },
-    "chimi_ichiza": {
-        "ja": "魑魅一座・路上流",
-        "en": "Chimi Ichiza Rojou Ryu",
-        "ko": "이매일좌 노상류"
+    "sudama_ichiza": {
+        "ja": "魑魅一座",
+        "en": "Sudama Ichiza",
+        "ko": "길거리 망량즈"
     },
     "kaitenger": {
         "ja": "カイテンジャー",
@@ -253,5 +253,10 @@
         "ja": "RABBIT小隊",
         "en": "RABBIT Platoon",
         "ko": "RABBIT 소대"
+    },
+    "pandemonium_society": {
+        "ja": "パンデモニウム・ソサエティー",
+        "en": "Pandemonium Society",
+        "ko": "판데모니움 소사이어티"
     }
 }

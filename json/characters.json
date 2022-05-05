@@ -1684,8 +1684,8 @@
         "name": {
             "first_name": {
                 "ja": "魑魅一座",
-                "en": "Chimi Ichiza",
-                "ko": "이매일좌"
+                "en": "Sudama Ichiza",
+                "ko": "길거리 망량즈"
             },
             "last_name": {
                 "ja": "",
@@ -1695,11 +1695,12 @@
         },
         "school": "???",
         "club": [
-            "chimi_ichiza"
+            "sudama_ichiza"
         ],
-        "id": "StreetGhoste_RL_Yukata",
+        "id": "Sudama_ichiza",
         "img": [
-            "StreetGhoste_RL_Yukata"
+            "StreetGhoste_RL_Yukata",
+            "Yukata_StreetGhostes"
         ]
     },
     {
@@ -2503,6 +2504,72 @@
         "id": "Ayumu",
         "img": [
             "Ayumu"
+        ]
+    },
+    {
+        "name": {
+            "first_name": {
+                "ja": "ミチル",
+                "en": "Michiru",
+                "ko": "미치루"
+            },
+            "last_name": {
+                "ja": "千鳥",
+                "en": "Chidori",
+                "ko": "치도리"
+            }
+        },
+        "school": "hyakkiyako",
+        "club": [
+            "ninjutsu_research_department"
+        ],
+        "id": "Michiru",
+        "img": [
+            "Michiru"
+        ]
+    },
+    {
+        "name": {
+            "first_name": {
+                "ja": "イロハ",
+                "en": "Iroha",
+                "ko": "이로하"
+            },
+            "last_name": {
+                "ja": "棗",
+                "en": "Natsume",
+                "ko": "나츠메"
+            }
+        },
+        "school": "gehenna",
+        "club": [
+            "pandemonium_society"
+        ],
+        "id": "Iroha",
+        "img": [
+            "Iroha"
+        ]
+    },
+    {
+        "name": {
+            "first_name": {
+                "ja": "カエデ",
+                "en": "Kaede",
+                "ko": "카에데"
+            },
+            "last_name": {
+                "ja": "勇美",
+                "en": "Isami",
+                "ko": "이사미"
+            }
+        },
+        "school": "hyakkiyako",
+        "club": [
+            "inner_discipline_club"
+        ],
+        "id": "Kaede",
+        "img": [
+            "Kaede"
         ]
     }
 ]
