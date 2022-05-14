@@ -2571,5 +2571,27 @@
         "img": [
             "Kaede"
         ]
+    },
+    {
+        "name": {
+            "first_name": {
+                "ja": "ツクヨ",
+                "en": "Tsukuyo",
+                "ko": "츠쿠요"
+            },
+            "last_name": {
+                "ja": "大野",
+                "en": "Oono",
+                "ko": "오오노"
+            }
+        },
+        "school": "hyakkiyako",
+        "club": [
+            "ninjutsu_research_department"
+        ],
+        "id": "Tsukuyo",
+        "img": [
+            "Tsukuyo"
+        ]
     }
 ]
