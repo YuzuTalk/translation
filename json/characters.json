@@ -2593,5 +2593,72 @@
         "img": [
             "Tsukuyo"
         ]
+    },
+    {
+        "name": {
+            "first_name": {
+                "ja": "サオリ",
+                "en": "Saori",
+                "ko": "사오리"
+            },
+            "last_name": {
+                "ja": "錠前",
+                "en": "Joumae",
+                "ko": "죠마에"
+            }
+        },
+        "school": "arius",
+        "club": [
+            "arius_squad"
+        ],
+        "id": "Saori",
+        "img": [
+            "Saori",
+            "Saori_Masked"
+        ]
+    },
+    {
+        "name": {
+            "first_name": {
+                "ja": "ヒヨリ",
+                "en": "Hiyori",
+                "ko": "히요리"
+            },
+            "last_name": {
+                "ja": "槌永",
+                "en": "Tsuchinaga",
+                "ko": "츠치나가"
+            }
+        },
+        "school": "arius",
+        "club": [
+            "arius_squad"
+        ],
+        "id": "Hiyori",
+        "img": [
+            "Hiyori"
+        ]
+    },
+    {
+        "name": {
+            "first_name": {
+                "ja": "ミサキ",
+                "en": "Misaki",
+                "ko": "미사키"
+            },
+            "last_name": {
+                "ja": "戒野",
+                "en": "Imashino",
+                "ko": "이마시노"
+            }
+        },
+        "school": "arius",
+        "club": [
+            "arius_squad"
+        ],
+        "id": "Misaki",
+        "img": [
+            "Misaki"
+        ]
     }
 ]
