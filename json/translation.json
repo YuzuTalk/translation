@@ -1,237 +1,237 @@
 {
-    "asc": {
-        "ja": "昇順",
-        "en": "Ascending order",
-        "ko": "오름차순"
-    },
-    "cancel": {
-        "ja": "キャンセル",
-        "en": "Cancel",
-        "ko": "취소"
-    },
-    "character": {
-        "ja": "人物",
-        "en": "Character",
-        "ko": "캐릭터"
-    },
-    "clear": {
-        "ja": "クリア",
-        "en": "Clear",
-        "ko": "비우기"
-    },
-    "clear_all_messages": {
-        "ja": "メッセージをクリアしますか？",
-        "en": "Clear all messages?",
-        "ko": "모든 메시지를 비울까요?"
-    },
-    "close": {
-        "ja": "閉じる",
-        "en": "Close",
-        "ko": "닫기"
-    },
-    "club": {
-        "ja": "クラブ",
-        "en": "Club",
-        "ko": "동아리"
-    },
-    "copyright_notice": {
-        "ja": "著作権表示",
-        "en": "Copyright notice",
-        "ko": "저작권"
-    },
-    "contact": {
-        "ja": "お問い合わせ",
-        "en": "Contact",
-        "ko": "문의"
-    },
-    "delete": {
-        "ja": "削除",
-        "en": "Delete",
-        "ko": "삭제"
-    },
-    "delete_mode": {
-        "ja": "削除モード",
-        "en": "Delete mode",
-        "ko": "삭제 모드"
-    },
-    "desc": {
-        "ja": "降順",
-        "en": "Descending order",
-        "ko": "내림차순"
-    },
-    "download": {
-        "ja": "ダウンロード",
-        "en": "Download",
-        "ko": "다운로드"
-    },
-    "dummy": {
-        "ja": "ダミー",
-        "en": "Dummy",
-        "ko": "더미"
-    },
-    "first_name": {
-        "ja": "名前",
-        "en": "First name",
-        "ko": "이름"
-    },
-    "help": {
-        "ja": "ヘルプ",
-        "en": "Help",
-        "ko": "도움말"
-    },
-    "kizuna": {
-        "ja": "絆",
-        "en": "Relationship",
-        "ko": "인연"
-    },
-    "kizuna_event": {
-        "ja": "絆イベント",
-        "en": "Relationship Event",
-        "ko": "인연 이벤트"
-    },
-    "image": {
-        "ja": "画像",
-        "en": "Image",
-        "ko": "이미지"
-    },
-    "language": {
-        "ja": "言語",
-        "en": "Language",
-        "ko": "언어"
-    },
-    "last_name": {
-        "ja": "名字",
-        "en": "Last name",
-        "ko": "성"
-    },
-    "mail": {
-        "ja": "メール",
-        "en": "Mail",
-        "ko": "메일"
-    },
-    "meta_site_description": {
-        "ja": "ユズトークはモモトーク風トークジェネレータです。",
-        "en": "YuzuTalk is a MomoTalk style talk generator.",
-        "ko": "YuzuTalk은 MomoTalk 스타일의 대화 생성기입니다."
-    },
-    "name": {
-        "ja": "名前",
-        "en": "Name",
-        "ko": "이름"
-    },
-    "news": {
-        "ja": "お知らせ",
-        "en": "News",
-        "ko": "공지사항"
-    },
-    "no": {
-        "ja": "No",
-        "en": "No",
-        "ko": "아니오"
-    },
-    "notification": {
-        "ja": "通知",
-        "en": "Notification",
-        "ko": "알림"
-    },
-    "ok": {
-        "ja": "OK",
-        "en": "OK",
-        "ko": "확인"
-    },
-    "open": {
-        "ja": "開く",
-        "en": "Open",
-        "ko": "열기"
-    },
-    "peroro": {
-        "ja": "ペロロ様",
-        "en": "Peroro-sama",
-        "ko": "페로로님"
-    },
-    "please_select_a_character": {
-        "ja": "人物を選択してください。",
-        "en": "Please select a character.",
-        "ko": "캐릭터를 선택해주세요."
-    },
-    "question": {
-        "ja": "はてな",
-        "en": "Question",
-        "ko": "수수께끼"
-    },
-    "search": {
-        "ja": "検索",
-        "en": "Search",
-        "ko": "검색"
-    },
-    "setting": {
-        "ja": "設定",
-        "en": "Setting",
-        "ko": "설정"
-    },
-    "school": {
-        "ja": "学校",
-        "en": "School",
-        "ko": "학교"
-    },
-    "send": {
-        "ja": "送信",
-        "en": "Send",
-        "ko": "전송"
-    },
-    "replay": {
-        "ja": "返信する",
-        "en": "Replay",
-        "ko": "답장하기"
-    },
-    "sort": {
-        "ja": "並び替え",
-        "en": "Sort",
-        "ko": "정렬"
-    },
-    "stamp": {
-        "ja": "スタンプ",
-        "en": "Stamp",
-        "ko": "스탬프"
-    },
-    "system_message": {
-        "ja": "システムメッセージ",
-        "en": "System message",
-        "ko": "시스템 메시지"
-    },
-    "teacher": {
-        "ja": "先生",
-        "en": "Teacher",
-        "ko": "선생"
-    },
-    "terms_of_service": {
-        "ja": "利用規約",
-        "en": "Terms Of Service",
-        "ko": "서비스 이용약관"
-    },
-    "to_kizuna_story": {
-        "ja": "$value$の絆ストーリーへ",
-        "en": "To $value$'s Relationship Story",
-        "ko": "$value$의 인연 스토리로"
-    },
-    "trash_can": {
-        "ja": "ゴミ箱",
-        "en": "Trash can",
-        "ko": "휴지통"
-    },
-    "unknown": {
-        "ja": "不明",
-        "en": "Unknown",
-        "ko": "알 수 없음"
-    },
-    "yes": {
-        "ja": "Yes",
-        "en": "Yes",
-        "ko": "네"
-    },
-    "yuzu": {
-        "ja": "柚子",
-        "en": "Yuzu",
-        "ko": "유즈"
-    }
+  "asc": {
+    "ja": "昇順",
+    "en": "Ascending order",
+    "ko": "오름차순"
+  },
+  "cancel": {
+    "ja": "キャンセル",
+    "en": "Cancel",
+    "ko": "취소"
+  },
+  "character": {
+    "ja": "人物",
+    "en": "Character",
+    "ko": "캐릭터"
+  },
+  "clear": {
+    "ja": "クリア",
+    "en": "Clear",
+    "ko": "비우기"
+  },
+  "clear_all_messages": {
+    "ja": "メッセージをクリアしますか？",
+    "en": "Clear all messages?",
+    "ko": "모든 메시지를 비울까요?"
+  },
+  "close": {
+    "ja": "閉じる",
+    "en": "Close",
+    "ko": "닫기"
+  },
+  "club": {
+    "ja": "クラブ",
+    "en": "Club",
+    "ko": "동아리"
+  },
+  "copyright_notice": {
+    "ja": "著作権表示",
+    "en": "Copyright notice",
+    "ko": "저작권"
+  },
+  "contact": {
+    "ja": "お問い合わせ",
+    "en": "Contact",
+    "ko": "문의"
+  },
+  "delete": {
+    "ja": "削除",
+    "en": "Delete",
+    "ko": "삭제"
+  },
+  "delete_mode": {
+    "ja": "削除モード",
+    "en": "Delete mode",
+    "ko": "삭제 모드"
+  },
+  "desc": {
+    "ja": "降順",
+    "en": "Descending order",
+    "ko": "내림차순"
+  },
+  "download": {
+    "ja": "ダウンロード",
+    "en": "Download",
+    "ko": "다운로드"
+  },
+  "dummy": {
+    "ja": "ダミー",
+    "en": "Dummy",
+    "ko": "더미"
+  },
+  "first_name": {
+    "ja": "名前",
+    "en": "First name",
+    "ko": "이름"
+  },
+  "help": {
+    "ja": "ヘルプ",
+    "en": "Help",
+    "ko": "도움말"
+  },
+  "kizuna": {
+    "ja": "絆",
+    "en": "Relationship",
+    "ko": "인연"
+  },
+  "kizuna_event": {
+    "ja": "絆イベント",
+    "en": "Relationship Event",
+    "ko": "인연 이벤트"
+  },
+  "image": {
+    "ja": "画像",
+    "en": "Image",
+    "ko": "이미지"
+  },
+  "language": {
+    "ja": "言語",
+    "en": "Language",
+    "ko": "언어"
+  },
+  "last_name": {
+    "ja": "名字",
+    "en": "Last name",
+    "ko": "성"
+  },
+  "mail": {
+    "ja": "メール",
+    "en": "Mail",
+    "ko": "메일"
+  },
+  "meta_site_description": {
+    "ja": "ユズトークはモモトーク風トークジェネレータです。",
+    "en": "YuzuTalk is a MomoTalk style talk generator.",
+    "ko": "YuzuTalk은 MomoTalk 스타일의 대화 생성기입니다."
+  },
+  "name": {
+    "ja": "名前",
+    "en": "Name",
+    "ko": "이름"
+  },
+  "news": {
+    "ja": "お知らせ",
+    "en": "News",
+    "ko": "공지사항"
+  },
+  "no": {
+    "ja": "No",
+    "en": "No",
+    "ko": "아니오"
+  },
+  "notification": {
+    "ja": "通知",
+    "en": "Notification",
+    "ko": "알림"
+  },
+  "ok": {
+    "ja": "OK",
+    "en": "OK",
+    "ko": "확인"
+  },
+  "open": {
+    "ja": "開く",
+    "en": "Open",
+    "ko": "열기"
+  },
+  "peroro": {
+    "ja": "ペロロ様",
+    "en": "Peroro-sama",
+    "ko": "페로로님"
+  },
+  "please_select_a_character": {
+    "ja": "人物を選択してください。",
+    "en": "Please select a character.",
+    "ko": "캐릭터를 선택해주세요."
+  },
+  "question": {
+    "ja": "はてな",
+    "en": "Question",
+    "ko": "수수께끼"
+  },
+  "search": {
+    "ja": "検索",
+    "en": "Search",
+    "ko": "검색"
+  },
+  "setting": {
+    "ja": "設定",
+    "en": "Setting",
+    "ko": "설정"
+  },
+  "school": {
+    "ja": "学校",
+    "en": "School",
+    "ko": "학교"
+  },
+  "send": {
+    "ja": "送信",
+    "en": "Send",
+    "ko": "전송"
+  },
+  "replay": {
+    "ja": "返信する",
+    "en": "Replay",
+    "ko": "답장하기"
+  },
+  "sort": {
+    "ja": "並び替え",
+    "en": "Sort",
+    "ko": "정렬"
+  },
+  "stamp": {
+    "ja": "スタンプ",
+    "en": "Stamp",
+    "ko": "스탬프"
+  },
+  "system_message": {
+    "ja": "システムメッセージ",
+    "en": "System message",
+    "ko": "시스템 메시지"
+  },
+  "teacher": {
+    "ja": "先生",
+    "en": "Teacher",
+    "ko": "선생"
+  },
+  "terms_of_service": {
+    "ja": "利用規約",
+    "en": "Terms Of Service",
+    "ko": "서비스 이용약관"
+  },
+  "to_kizuna_story": {
+    "ja": "$value$の絆ストーリーへ",
+    "en": "To $value$'s Relationship Story",
+    "ko": "$value$의 인연 스토리로"
+  },
+  "trash_can": {
+    "ja": "ゴミ箱",
+    "en": "Trash can",
+    "ko": "휴지통"
+  },
+  "unknown": {
+    "ja": "不明",
+    "en": "Unknown",
+    "ko": "알 수 없음"
+  },
+  "yes": {
+    "ja": "Yes",
+    "en": "Yes",
+    "ko": "네"
+  },
+  "yuzu": {
+    "ja": "柚子",
+    "en": "Yuzu",
+    "ko": "유즈"
+  }
 }

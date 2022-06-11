@@ -1,267 +1,272 @@
 {
-    "countermeasures_council": {
-        "ja": "対策委員会",
-        "en": "Countermeasures Council",
-        "ko": "대책위원회"
-    },
-    "school_lunch_club": {
-        "ja": "給食部",
-        "en": "School Lunch Club",
-        "ko": "급식부"
-    },
-    "gourmet_research_society": {
-        "ja": "美食研究会",
-        "en": "Gourmet Research Society",
-        "ko": "미식연구회"
-    },
-    "problem_solver_68": {
-        "ja": "便利屋68",
-        "en": "Problem Solver 68",
-        "ko": "흥신소68"
-    },
-    "disciplinary_committee": {
-        "ja": "風紀委員会",
-        "en": "Disciplinary Committee",
-        "ko": "풍기위원회"
-    },
-    "makeup_work_club": {
-        "ja": "補習授業部",
-        "en": "Makeup Work Club",
-        "ko": "보충수업부"
-    },
-    "remedial_knights": {
-        "ja": "救護騎士団",
-        "en": "Remedial Knights",
-        "ko": "구호기사단"
-    },
-    "library_committee": {
-        "ja": "図書委員会",
-        "en": "Library Committee",
-        "ko": "도서위원회"
-    },
-    "justice_task_force": {
-        "ja": "正義実現委員会",
-        "en": "Justice Task Force",
-        "ko": "정의실현위원회"
-    },
-    "after_school_sweets_club": {
-        "ja": "放課後スイーツ部",
-        "en": "After-School Sweets Club",
-        "ko": "방과후 스위트부"
-    },
-    "vigilante_crew": {
-        "ja": "トリニティ自警団",
-        "en": "Vigilante Crew",
-        "ko": "트리니티 자경단"
-    },
-    "seminar": {
-        "ja": "セミナー",
-        "en": "Seminar",
-        "ko": "세미나"
-    },
-    "cleaning_and_clearing": {
-        "ja": "Cleaning & Clearing",
-        "en": "Cleaning & Clearing",
-        "ko": "Cleaning & Clearing"
-    },
-    "super_phenomenon_task_force": {
-        "ja": "特異現象特務部",
-        "en": "Super Phenomenon Task Force",
-        "ko": "초현상특무부"
-    },
-    "veritas": {
-        "ja": "ヴェリタス",
-        "en": "Veritas",
-        "ko": "베리타스"
-    },
-    "engineering_club": {
-        "ja": "エンジニア部",
-        "en": "Engineering Club",
-        "ko": "엔지니어부"
-    },
-    "athletics_training_club": {
-        "ja": "トレーニング部",
-        "en": "Athletics Training Club",
-        "ko": "트레이닝부"
-    },
-    "game_development_department": {
-        "ja": "ゲーム開発部",
-        "en": "Game Development Department",
-        "ko": "게임개발부"
-    },
-    "plum_blossom_garden": {
-        "ja": "訓育支援部「梅花園」",
-        "en": "Plum Blossom Garden",
-        "ko": "훈육지원부 「매화원」"
-    },
-    "eastern_alchemy_society": {
-        "ja": "錬丹術研究会",
-        "en": "Eastern Alchemy Society",
-        "ko": "연단술 연구회"
-    },
-    "festival_operations_department": {
-        "ja": "お祭り運営委員会",
-        "en": "Festival Operations Department",
-        "ko": "축제운영위원회"
-    },
-    "inner_discipline_club": {
-        "ja": "修行部",
-        "en": "Inner Discipline Club",
-        "ko": "수행부"
-    },
-    "ninjutsu_research_department": {
-        "ja": "忍術研究部",
-        "en": "Ninjutsu Research Department",
-        "ko": "인술연구부"
-    },
-    "yin_yang_club": {
-        "ja": "陰陽部",
-        "en": "Yin-Yang Club",
-        "ko": "음양부"
-    },
-    "special_class_no.227": {
-        "ja": "227号特別クラス",
-        "en": "Special Class No.227",
-        "ko": "227호 특별반"
-    },
-    "red_winter_secretariat": {
-        "ja": "レッドウィンター事務局",
-        "en": "Red Winter Secretariat",
-        "ko": "레드윈터 사무국"
-    },
-    "gematria": {
-        "ja": "ゲマトリア",
-        "en": "Gematria",
-        "ko": "게마트리아"
-    },
-    "angel_24": {
-        "ja": "エンジェル24",
-        "en": "Angel 24",
-        "ko": "엔젤24 편의점"
-    },
-    "shitim's_box": {
-        "ja": "シッテムの箱",
-        "en": "Shittim Chests",
-        "ko": "싯딤의 상자"
-    },
-    "kaiser_pmc": {
-        "ja": "カイザーPMC",
-        "en": "Kaiser PMC",
-        "ko": "카이저 PMC"
-    },
-    "sibaseki_ramen": {
-        "ja": "柴関ラーメン",
-        "en": "Sibaseki Ramen",
-        "ko": "시바세키 라멘"
-    },
-    "hyakkiyako_commercial_district": {
-        "ja": "百鬼夜行商店街",
-        "en": "Hyakkiyako Commercial district",
-        "ko": "백귀야행 상점가"
-    },
-    "prime_student_council": {
-        "ja": "連邦生徒会",
-        "en": "Prime Student Council",
-        "ko": "연방학생회"
-    },
-    "masked_swimsuit_group": {
-        "ja": "覆面水着団",
-        "en": "Masked Swimsuit Group",
-        "ko": "복면수영복단"
-    },
-    "momo_friends": {
-        "ja": "モモフレンズ",
-        "en": "Momo Friends",
-        "ko": "모모프렌즈"
-    },
-    "decagrammaton": {
-        "ja": "デカグラマトン",
-        "en": "Decagrammaton",
-        "ko": "데카그라마톤"
-    },
-    "mimesis": {
-        "ja": "ミメシス",
-        "en": "Mimesis",
-        "ko": "미메시스"
-    },
-    "communio_sanctorum": {
-        "ja": "コムニオ・サンクトラム",
-        "en": "Communio Sanctorum",
-        "ko": "코뮤니오 상토룸"
-    },
-    "helmet_dan": {
-        "ja": "カタカタヘルメット団",
-        "en": "Katakata Helmet Dan",
-        "ko": "카타카타 헬멧단"
-    },
-    "city_chimpira": {
-        "ja": "街のチンピラ",
-        "en": "City Chimpira",
-        "ko": "길거리 양아치"
-    },
-    "sudama_ichiza": {
-        "ja": "魑魅一座",
-        "en": "Sudama Ichiza",
-        "ko": "길거리 망량즈"
-    },
-    "kaitenger": {
-        "ja": "カイテンジャー",
-        "en": "Kaitenger",
-        "ko": "카이텐저"
-    },
-    "community_safety_bureau": {
-        "ja": "生活安全局",
-        "en": "Community Safety Bureau",
-        "ko": "생활안전국"
-    },
-    "sisterhood": {
-        "ja": "シスターフッド",
-        "en": "Sisterhood",
-        "ko": "시스터후드"
-    },
-    "the_library_of_lore": {
-        "ja": "The Library of Lore",
-        "en": "The Library of Lore",
-        "ko": "The Library of Lore"
-    },
-    "citizen": {
-        "ja": "市民",
-        "en": "Citizen",
-        "ko": "시민"
-    },
-    "tea_party": {
-        "ja": "ティーパーティー",
-        "en": "Tea Party",
-        "ko": "티 파티"
-    },
-    "onsen_development_club": {
-        "ja": "温泉開発部",
-        "en": "Onsen Development Club",
-        "ko": "온천개발부"
-    },
-    "construction_department": {
-        "ja": "工務部",
-        "en": "Construction Department",
-        "ko": "공사부"
-    },
-    "emergency_medicine_club": {
-        "ja": "救急医学部",
-        "en": "Emergency Medicine Club",
-        "ko": "구급의학부"
-    },
-    "rabbit_platoon": {
-        "ja": "RABBIT小隊",
-        "en": "RABBIT Platoon",
-        "ko": "RABBIT 소대"
-    },
-    "pandemonium_society": {
-        "ja": "パンデモニウム・ソサエティー",
-        "en": "Pandemonium Society",
-        "ko": "판데모니움 소사이어티"
-    },
-    "arius_squad": {
-        "ja": "アリウススクワッド",
-        "en": "Arius Squad",
-        "ko": "아리우스 스쿼드"
-    }
+  "countermeasures_council": {
+    "ja": "対策委員会",
+    "en": "Countermeasures Council",
+    "ko": "대책위원회"
+  },
+  "school_lunch_club": {
+    "ja": "給食部",
+    "en": "School Lunch Club",
+    "ko": "급식부"
+  },
+  "gourmet_research_society": {
+    "ja": "美食研究会",
+    "en": "Gourmet Research Society",
+    "ko": "미식연구회"
+  },
+  "problem_solver_68": {
+    "ja": "便利屋68",
+    "en": "Problem Solver 68",
+    "ko": "흥신소68"
+  },
+  "disciplinary_committee": {
+    "ja": "風紀委員会",
+    "en": "Disciplinary Committee",
+    "ko": "풍기위원회"
+  },
+  "makeup_work_club": {
+    "ja": "補習授業部",
+    "en": "Makeup Work Club",
+    "ko": "보충수업부"
+  },
+  "remedial_knights": {
+    "ja": "救護騎士団",
+    "en": "Remedial Knights",
+    "ko": "구호기사단"
+  },
+  "library_committee": {
+    "ja": "図書委員会",
+    "en": "Library Committee",
+    "ko": "도서위원회"
+  },
+  "justice_task_force": {
+    "ja": "正義実現委員会",
+    "en": "Justice Task Force",
+    "ko": "정의실현위원회"
+  },
+  "after_school_sweets_club": {
+    "ja": "放課後スイーツ部",
+    "en": "After-School Sweets Club",
+    "ko": "방과후 스위트부"
+  },
+  "vigilante_crew": {
+    "ja": "トリニティ自警団",
+    "en": "Vigilante Crew",
+    "ko": "트리니티 자경단"
+  },
+  "seminar": {
+    "ja": "セミナー",
+    "en": "Seminar",
+    "ko": "세미나"
+  },
+  "cleaning_and_clearing": {
+    "ja": "Cleaning & Clearing",
+    "en": "Cleaning & Clearing",
+    "ko": "Cleaning & Clearing"
+  },
+  "super_phenomenon_task_force": {
+    "ja": "特異現象特務部",
+    "en": "Super Phenomenon Task Force",
+    "ko": "초현상특무부"
+  },
+  "veritas": {
+    "ja": "ヴェリタス",
+    "en": "Veritas",
+    "ko": "베리타스"
+  },
+  "engineering_club": {
+    "ja": "エンジニア部",
+    "en": "Engineering Club",
+    "ko": "엔지니어부"
+  },
+  "athletics_training_club": {
+    "ja": "トレーニング部",
+    "en": "Athletics Training Club",
+    "ko": "트레이닝부"
+  },
+  "game_development_department": {
+    "ja": "ゲーム開発部",
+    "en": "Game Development Department",
+    "ko": "게임개발부"
+  },
+  "plum_blossom_garden": {
+    "ja": "訓育支援部「梅花園」",
+    "en": "Plum Blossom Garden",
+    "ko": "훈육지원부 「매화원」"
+  },
+  "eastern_alchemy_society": {
+    "ja": "錬丹術研究会",
+    "en": "Eastern Alchemy Society",
+    "ko": "연단술 연구회"
+  },
+  "festival_operations_department": {
+    "ja": "お祭り運営委員会",
+    "en": "Festival Operations Department",
+    "ko": "축제운영위원회"
+  },
+  "inner_discipline_club": {
+    "ja": "修行部",
+    "en": "Inner Discipline Club",
+    "ko": "수행부"
+  },
+  "ninjutsu_research_department": {
+    "ja": "忍術研究部",
+    "en": "Ninjutsu Research Department",
+    "ko": "인술연구부"
+  },
+  "yin_yang_club": {
+    "ja": "陰陽部",
+    "en": "Yin-Yang Club",
+    "ko": "음양부"
+  },
+  "special_class_no.227": {
+    "ja": "227号特別クラス",
+    "en": "Special Class No.227",
+    "ko": "227호 특별반"
+  },
+  "red_winter_secretariat": {
+    "ja": "レッドウィンター事務局",
+    "en": "Red Winter Secretariat",
+    "ko": "레드윈터 사무국"
+  },
+  "gematria": {
+    "ja": "ゲマトリア",
+    "en": "Gematria",
+    "ko": "게마트리아"
+  },
+  "angel_24": {
+    "ja": "エンジェル24",
+    "en": "Angel 24",
+    "ko": "엔젤24 편의점"
+  },
+  "shitim's_box": {
+    "ja": "シッテムの箱",
+    "en": "Shittim Chests",
+    "ko": "싯딤의 상자"
+  },
+  "kaiser_pmc": {
+    "ja": "カイザーPMC",
+    "en": "Kaiser PMC",
+    "ko": "카이저 PMC"
+  },
+  "sibaseki_ramen": {
+    "ja": "柴関ラーメン",
+    "en": "Sibaseki Ramen",
+    "ko": "시바세키 라멘"
+  },
+  "hyakkiyako_commercial_district": {
+    "ja": "百鬼夜行商店街",
+    "en": "Hyakkiyako Commercial district",
+    "ko": "백귀야행 상점가"
+  },
+  "prime_student_council": {
+    "ja": "連邦生徒会",
+    "en": "Prime Student Council",
+    "ko": "연방학생회"
+  },
+  "masked_swimsuit_group": {
+    "ja": "覆面水着団",
+    "en": "Masked Swimsuit Group",
+    "ko": "복면수영복단"
+  },
+  "momo_friends": {
+    "ja": "モモフレンズ",
+    "en": "Momo Friends",
+    "ko": "모모프렌즈"
+  },
+  "decagrammaton": {
+    "ja": "デカグラマトン",
+    "en": "Decagrammaton",
+    "ko": "데카그라마톤"
+  },
+  "mimesis": {
+    "ja": "ミメシス",
+    "en": "Mimesis",
+    "ko": "미메시스"
+  },
+  "communio_sanctorum": {
+    "ja": "コムニオ・サンクトラム",
+    "en": "Communio Sanctorum",
+    "ko": "코뮤니오 상토룸"
+  },
+  "helmet_dan": {
+    "ja": "カタカタヘルメット団",
+    "en": "Katakata Helmet Dan",
+    "ko": "카타카타 헬멧단"
+  },
+  "city_chimpira": {
+    "ja": "街のチンピラ",
+    "en": "City Chimpira",
+    "ko": "길거리 양아치"
+  },
+  "sudama_ichiza": {
+    "ja": "魑魅一座",
+    "en": "Sudama Ichiza",
+    "ko": "길거리 망량즈"
+  },
+  "kaitenger": {
+    "ja": "カイテンジャー",
+    "en": "Kaitenger",
+    "ko": "카이텐저"
+  },
+  "community_safety_bureau": {
+    "ja": "生活安全局",
+    "en": "Community Safety Bureau",
+    "ko": "생활안전국"
+  },
+  "sisterhood": {
+    "ja": "シスターフッド",
+    "en": "Sisterhood",
+    "ko": "시스터후드"
+  },
+  "the_library_of_lore": {
+    "ja": "The Library of Lore",
+    "en": "The Library of Lore",
+    "ko": "The Library of Lore"
+  },
+  "citizen": {
+    "ja": "市民",
+    "en": "Citizen",
+    "ko": "시민"
+  },
+  "tea_party": {
+    "ja": "ティーパーティー",
+    "en": "Tea Party",
+    "ko": "티 파티"
+  },
+  "onsen_development_club": {
+    "ja": "温泉開発部",
+    "en": "Onsen Development Club",
+    "ko": "온천개발부"
+  },
+  "construction_department": {
+    "ja": "工務部",
+    "en": "Construction Department",
+    "ko": "공사부"
+  },
+  "emergency_medicine_club": {
+    "ja": "救急医学部",
+    "en": "Emergency Medicine Club",
+    "ko": "구급의학부"
+  },
+  "rabbit_platoon": {
+    "ja": "RABBIT小隊",
+    "en": "RABBIT Platoon",
+    "ko": "RABBIT 소대"
+  },
+  "pandemonium_society": {
+    "ja": "パンデモニウム・ソサエティー",
+    "en": "Pandemonium Society",
+    "ko": "판데모니움 소사이어티"
+  },
+  "arius_squad": {
+    "ja": "アリウススクワッド",
+    "en": "Arius Squad",
+    "ko": "아리우스 스쿼드"
+  },
+  "public_safety_bureau": {
+    "ja": "公安局",
+    "en": "Public Safety Bureau",
+    "ko": "공안국"
+  }
 }
