@@ -81,7 +81,7 @@
     "ja": "ダミー",
     "en": "Dummy",
     "ko": "더미",
-    "zh": ""
+    "zh": "虛擬人"
   },
   "first_name": {
     "ja": "名前",
@@ -153,7 +153,7 @@
     "ja": "No",
     "en": "No",
     "ko": "아니오",
-    "zh": "否"
+    "zh": "No"
   },
   "notification": {
     "ja": "通知",
@@ -171,19 +171,19 @@
     "ja": "開く",
     "en": "Open",
     "ko": "열기",
-    "zh": "打開"
+    "zh": "展開"
   },
   "peroro": {
     "ja": "ペロロ様",
     "en": "Peroro-sama",
     "ko": "페로로님",
-    "zh": "佩洛洛"
+    "zh": "佩洛洛大人"
   },
   "please_select_a_character": {
     "ja": "人物を選択してください。",
     "en": "Please select a character.",
     "ko": "캐릭터를 선택해주세요.",
-    "zh": "請選擇一個學生"
+    "zh": "請選擇一位學生"
   },
   "question": {
     "ja": "はてな",
@@ -231,7 +231,7 @@
     "ja": "スタンプ",
     "en": "Stamp",
     "ko": "스탬프",
-    "zh": "郵票"
+    "zh": "贴纸"
   },
   "system_message": {
     "ja": "システムメッセージ",
