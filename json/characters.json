@@ -4,12 +4,14 @@
       "first_name": {
         "ja": "ノノミ",
         "en": "Nonomi",
-        "ko": "노노미"
+        "ko": "노노미",
+        "zh": "野乃美"
       },
       "last_name": {
         "ja": "十六夜",
         "en": "Izayoi",
-        "ko": "이자요이"
+        "ko": "이자요이",
+        "zh": "十六夜"
       }
     },
     "school": "abydos",
@@ -22,12 +24,14 @@
       "first_name": {
         "ja": "セリカ",
         "en": "Serika",
-        "ko": "세리카"
+        "ko": "세리카",
+        "zh": "茜香"
       },
       "last_name": {
         "ja": "黒見",
         "en": "Kuromi",
-        "ko": "쿠로미"
+        "ko": "쿠로미",
+        "zh": "黑見"
       }
     },
     "school": "abydos",
@@ -44,12 +48,14 @@
       "first_name": {
         "ja": "アヤネ",
         "en": "Ayane",
-        "ko": "아야네"
+        "ko": "아야네",
+        "zh": "綾音"
       },
       "last_name": {
         "ja": "奥空",
         "en": "Okusora",
-        "ko": "오쿠소라"
+        "ko": "오쿠소라",
+        "zh": "奧空"
       }
     },
     "school": "abydos",
@@ -62,12 +68,14 @@
       "first_name": {
         "ja": "シロコ",
         "en": "Shiroko",
-        "ko": "시로코"
+        "ko": "시로코",
+        "zh": "白子"
       },
       "last_name": {
         "ja": "砂狼",
         "en": "Sunaookami",
-        "ko": "스나오오카미"
+        "ko": "스나오오카미",
+        "zh": "砂狼"
       }
     },
     "school": "abydos",
@@ -80,12 +88,14 @@
       "first_name": {
         "ja": "ホシノ",
         "en": "Hoshino",
-        "ko": "호시노"
+        "ko": "호시노",
+        "zh": "星野"
       },
       "last_name": {
         "ja": "小鳥遊",
         "en": "Takanashi",
-        "ko": "타카나시"
+        "ko": "타카나시",
+        "zh": "小鳥游"
       }
     },
     "school": "abydos",
@@ -98,12 +108,14 @@
       "first_name": {
         "ja": "フウカ",
         "en": "Fuuka",
-        "ko": "후우카"
+        "ko": "후우카",
+        "zh": "風華"
       },
       "last_name": {
         "ja": "愛清",
         "en": "Aikiyo",
-        "ko": "아이키요"
+        "ko": "아이키요",
+        "zh": "愛清"
       }
     },
     "school": "gehenna",
@@ -116,12 +128,14 @@
       "first_name": {
         "ja": "ジュンコ",
         "en": "Junko",
-        "ko": "준코"
+        "ko": "준코",
+        "zh": "淳子"
       },
       "last_name": {
         "ja": "赤司",
         "en": "Akashi",
-        "ko": "아카시"
+        "ko": "아카시",
+        "zh": "赤司"
       }
     },
     "school": "gehenna",
@@ -134,12 +148,14 @@
       "first_name": {
         "ja": "ムツキ",
         "en": "Mutsuki",
-        "ko": "무츠키"
+        "ko": "무츠키",
+        "zh": "無月"
       },
       "last_name": {
         "ja": "浅黄",
         "en": "Asagi",
-        "ko": "아사기"
+        "ko": "아사기",
+        "zh": "浅黃"
       }
     },
     "school": "gehenna",
@@ -152,12 +168,14 @@
       "first_name": {
         "ja": "チナツ",
         "en": "Chinatsu",
-        "ko": "치나츠"
+        "ko": "치나츠",
+        "zh": "千夏"
       },
       "last_name": {
         "ja": "火宮",
         "en": "Hinomiya",
-        "ko": "히노미야"
+        "ko": "히노미야",
+        "zh": "火宮"
       }
     },
     "school": "gehenna",
@@ -170,12 +188,14 @@
       "first_name": {
         "ja": "ハルカ",
         "en": "Haruka",
-        "ko": "하루카"
+        "ko": "하루카",
+        "zh": "遙香"
       },
       "last_name": {
         "ja": "伊草",
         "en": "Igusa",
-        "ko": "이구사"
+        "ko": "이구사",
+        "zh": "伊草"
       }
     },
     "school": "gehenna",
@@ -188,12 +208,14 @@
       "first_name": {
         "ja": "ハルナ",
         "en": "Haruna",
-        "ko": "하루나"
+        "ko": "하루나",
+        "zh": "羽留奈"
       },
       "last_name": {
         "ja": "黒館",
         "en": "Kurodate",
-        "ko": "쿠로다테"
+        "ko": "쿠로다테",
+        "zh": "黑館"
       }
     },
     "school": "gehenna",
@@ -206,12 +228,14 @@
       "first_name": {
         "ja": "カヨコ",
         "en": "Kayoko",
-        "ko": "카요코"
+        "ko": "카요코",
+        "zh": "佳世子"
       },
       "last_name": {
         "ja": "鬼方",
         "en": "Onikata",
-        "ko": "오니카타"
+        "ko": "오니카타",
+        "zh": "鬼方"
       }
     },
     "school": "gehenna",
@@ -224,12 +248,14 @@
       "first_name": {
         "ja": "アル",
         "en": "Aru",
-        "ko": "아루"
+        "ko": "아루",
+        "zh": "亞瑠"
       },
       "last_name": {
         "ja": "陸八魔",
         "en": "Rikuhachima",
-        "ko": "리쿠하치마"
+        "ko": "리쿠하치마",
+        "zh": "陸八魔"
       }
     },
     "school": "gehenna",
@@ -242,12 +268,14 @@
       "first_name": {
         "ja": "イオリ",
         "en": "Iori",
-        "ko": "이오리"
+        "ko": "이오리",
+        "zh": "伊織"
       },
       "last_name": {
         "ja": "銀鏡",
         "en": "Shiromi",
-        "ko": "시로미"
+        "ko": "시로미",
+        "zh": "銀鏡"
       }
     },
     "school": "gehenna",
@@ -260,12 +288,14 @@
       "first_name": {
         "ja": "イズミ",
         "en": "Izumi",
-        "ko": "이즈미"
+        "ko": "이즈미",
+        "zh": "泉"
       },
       "last_name": {
         "ja": "獅子堂",
         "en": "Shishidou",
-        "ko": "시시도우"
+        "ko": "시시도우",
+        "zh": "獅子堂"
       }
     },
     "school": "gehenna",
@@ -278,12 +308,14 @@
       "first_name": {
         "ja": "ヒナ",
         "en": "Hina",
-        "ko": "히나"
+        "ko": "히나",
+        "zh": "陽奈"
       },
       "last_name": {
         "ja": "空崎",
         "en": "Sorasaki",
-        "ko": "소라사키"
+        "ko": "소라사키",
+        "zh": "空崎"
       }
     },
     "school": "gehenna",
@@ -296,12 +328,14 @@
       "first_name": {
         "ja": "ジュリ",
         "en": "Juri",
-        "ko": "주리"
+        "ko": "주리",
+        "zh": "茱莉"
       },
       "last_name": {
         "ja": "牛牧",
         "en": "Ushimaki",
-        "ko": "우시마키"
+        "ko": "우시마키",
+        "zh": "牛牧"
       }
     },
     "school": "gehenna",
@@ -314,12 +348,14 @@
       "first_name": {
         "ja": "アカリ",
         "en": "Akari",
-        "ko": "아카리"
+        "ko": "아카리",
+        "zh": "亞伽里"
       },
       "last_name": {
         "ja": "鰐渕",
         "en": "Wanibuchi",
-        "ko": "와니부치"
+        "ko": "와니부치",
+        "zh": "鰐渕"
       }
     },
     "school": "gehenna",
@@ -332,12 +368,14 @@
       "first_name": {
         "ja": "ヒフミ",
         "en": "Hifumi",
-        "ko": "히후미"
+        "ko": "히후미",
+        "zh": "日步美"
       },
       "last_name": {
         "ja": "阿慈谷",
         "en": "Ajitani",
-        "ko": "아지타니"
+        "ko": "아지타니",
+        "zh": "阿慈谷"
       }
     },
     "school": "trinity",
@@ -356,12 +394,14 @@
       "first_name": {
         "ja": "ハナエ",
         "en": "Hanae",
-        "ko": "하나에"
+        "ko": "하나에",
+        "zh": "花繪"
       },
       "last_name": {
         "ja": "朝顔",
         "en": "Asagao",
-        "ko": "아사가오"
+        "ko": "아사가오",
+        "zh": "朝顔"
       }
     },
     "school": "trinity",
@@ -374,12 +414,14 @@
       "first_name": {
         "ja": "シミコ",
         "en": "Shimiko",
-        "ko": "시미코"
+        "ko": "시미코",
+        "zh": "志美子"
       },
       "last_name": {
         "ja": "円堂",
         "en": "Endou",
-        "ko": "엔도우"
+        "ko": "엔도우",
+        "zh": "円堂"
       }
     },
     "school": "trinity",
@@ -392,12 +434,14 @@
       "first_name": {
         "ja": "ハスミ",
         "en": "Hasumi",
-        "ko": "하스미"
+        "ko": "하스미",
+        "zh": "蓮實"
       },
       "last_name": {
         "ja": "羽川",
         "en": "Hanekawa",
-        "ko": "하네카와"
+        "ko": "하네카와",
+        "zh": "羽川"
       }
     },
     "school": "trinity",
@@ -410,12 +454,14 @@
       "first_name": {
         "ja": "ヨシミ",
         "en": "Yoshimi",
-        "ko": "요시미"
+        "ko": "요시미",
+        "zh": "喜美"
       },
       "last_name": {
         "ja": "伊原木",
         "en": "Ibaragi",
-        "ko": "이바라기"
+        "ko": "이바라기",
+        "zh": "伊原木"
       }
     },
     "school": "trinity",
@@ -428,12 +474,14 @@
       "first_name": {
         "ja": "ツルギ",
         "en": "Tsurugi",
-        "ko": "츠루기"
+        "ko": "츠루기",
+        "zh": "弦生"
       },
       "last_name": {
         "ja": "剣先",
         "en": "Kenzaki",
-        "ko": "켄자키"
+        "ko": "켄자키",
+        "zh": "剣先"
       }
     },
     "school": "trinity",
@@ -446,12 +494,14 @@
       "first_name": {
         "ja": "アイリ",
         "en": "Airi",
-        "ko": "아이리"
+        "ko": "아이리",
+        "zh": "愛莉"
       },
       "last_name": {
         "ja": "栗村",
         "en": "Kurimura",
-        "ko": "쿠리무라"
+        "ko": "쿠리무라",
+        "zh": "栗村"
       }
     },
     "school": "trinity",
@@ -464,12 +514,14 @@
       "first_name": {
         "ja": "スズミ",
         "en": "Suzumi",
-        "ko": "스즈미"
+        "ko": "스즈미",
+        "zh": "鈴美"
       },
       "last_name": {
         "ja": "守月",
         "en": "Morizuki",
-        "ko": "모리즈키"
+        "ko": "모리즈키",
+        "zh": "守月"
       }
     },
     "school": "trinity",
@@ -482,12 +534,14 @@
       "first_name": {
         "ja": "マシロ",
         "en": "Mashiro",
-        "ko": "마시로"
+        "ko": "마시로",
+        "zh": "麻白"
       },
       "last_name": {
         "ja": "静山",
         "en": "Shizuyama",
-        "ko": "시즈야마"
+        "ko": "시즈야마",
+        "zh": "静山"
       }
     },
     "school": "trinity",
@@ -500,12 +554,14 @@
       "first_name": {
         "ja": "セリナ",
         "en": "Serina",
-        "ko": "세리나"
+        "ko": "세리나",
+        "zh": "芹奈"
       },
       "last_name": {
         "ja": "鷲見",
         "en": "Sumi",
-        "ko": "스미"
+        "ko": "스미",
+        "zh": "鷲見"
       }
     },
     "school": "trinity",
@@ -518,12 +574,14 @@
       "first_name": {
         "ja": "ユウカ",
         "en": "Yuuka",
-        "ko": "유우카"
+        "ko": "유우카",
+        "zh": "優香"
       },
       "last_name": {
         "ja": "早瀬",
         "en": "Hayase",
-        "ko": "하야세"
+        "ko": "하야세",
+        "zh": "早瀬"
       }
     },
     "school": "millennium",
@@ -536,12 +594,14 @@
       "first_name": {
         "ja": "アスナ",
         "en": "Asuna",
-        "ko": "아스나"
+        "ko": "아스나",
+        "zh": "明日奈"
       },
       "last_name": {
         "ja": "一之瀬",
         "en": "Ichinose",
-        "ko": "이치노세"
+        "ko": "이치노세",
+        "zh": "一之瀬"
       }
     },
     "school": "millennium",
@@ -554,12 +614,14 @@
       "first_name": {
         "ja": "エイミ",
         "en": "Eimi",
-        "ko": "에이미"
+        "ko": "에이미",
+        "zh": "英美"
       },
       "last_name": {
         "ja": "和泉元",
         "en": "Izumimoto",
-        "ko": "이즈미모토"
+        "ko": "이즈미모토",
+        "zh": "和泉元"
       }
     },
     "school": "millennium",
@@ -572,12 +634,14 @@
       "first_name": {
         "ja": "カリン",
         "en": "Karin",
-        "ko": "카린"
+        "ko": "카린",
+        "zh": "花凛"
       },
       "last_name": {
         "ja": "角楯",
         "en": "Kakudate",
-        "ko": "카쿠다테"
+        "ko": "카쿠다테",
+        "zh": "角楯"
       }
     },
     "school": "millennium",
@@ -590,12 +654,14 @@
       "first_name": {
         "ja": "マキ",
         "en": "Maki",
-        "ko": "마키"
+        "ko": "마키",
+        "zh": "真紀"
       },
       "last_name": {
         "ja": "小塗",
         "en": "Konuri",
-        "ko": "코누리"
+        "ko": "코누리",
+        "zh": "小塗"
       }
     },
     "school": "millennium",
@@ -608,12 +674,14 @@
       "first_name": {
         "ja": "ネル",
         "en": "Neru",
-        "ko": "네루"
+        "ko": "네루",
+        "zh": "寧瑠"
       },
       "last_name": {
         "ja": "美甘",
         "en": "Mikamo",
-        "ko": "미카모"
+        "ko": "미카모",
+        "zh": "美甘"
       }
     },
     "school": "millennium",
@@ -626,12 +694,14 @@
       "first_name": {
         "ja": "アカネ",
         "en": "Akane",
-        "ko": "아카네"
+        "ko": "아카네",
+        "zh": "朱音"
       },
       "last_name": {
         "ja": "室笠",
         "en": "Murokasa",
-        "ko": "무로카사"
+        "ko": "무로카사",
+        "zh": "室笠"
       }
     },
     "school": "millennium",
@@ -644,12 +714,14 @@
       "first_name": {
         "ja": "ヒビキ",
         "en": "Hibiki",
-        "ko": "히비키"
+        "ko": "히비키",
+        "zh": "響"
       },
       "last_name": {
         "ja": "猫塚",
         "en": "Nekozuka",
-        "ko": "네코즈카"
+        "ko": "네코즈카",
+        "zh": "猫塚"
       }
     },
     "school": "millennium",
@@ -662,12 +734,14 @@
       "first_name": {
         "ja": "ハレ",
         "en": "Hare",
-        "ko": "하레"
+        "ko": "하레",
+        "zh": "晴"
       },
       "last_name": {
         "ja": "小鈎",
         "en": "Omagari",
-        "ko": "오마가리"
+        "ko": "오마가리",
+        "zh": "小鉤"
       }
     },
     "school": "millennium",
@@ -680,12 +754,14 @@
       "first_name": {
         "ja": "スミレ",
         "en": "Sumire",
-        "ko": "스미레"
+        "ko": "스미레",
+        "zh": "堇"
       },
       "last_name": {
         "ja": "乙花",
         "en": "Otohana",
-        "ko": "오토하나"
+        "ko": "오토하나",
+        "zh": "乙花"
       }
     },
     "school": "millennium",
@@ -698,12 +774,14 @@
       "first_name": {
         "ja": "コタマ",
         "en": "Kotama",
-        "ko": "코타마"
+        "ko": "코타마",
+        "zh": "小玉"
       },
       "last_name": {
         "ja": "音瀬",
         "en": "Otose",
-        "ko": "오토세"
+        "ko": "오토세",
+        "zh": "音瀬"
       }
     },
     "school": "millennium",
@@ -716,12 +794,14 @@
       "first_name": {
         "ja": "モモイ",
         "en": "Momoi",
-        "ko": "모모이"
+        "ko": "모모이",
+        "zh": "桃井"
       },
       "last_name": {
         "ja": "才羽",
         "en": "Saiba",
-        "ko": "사이바"
+        "ko": "사이바",
+        "zh": "才羽"
       }
     },
     "school": "millennium",
@@ -734,12 +814,14 @@
       "first_name": {
         "ja": "ミドリ",
         "en": "Midori",
-        "ko": "미도리"
+        "ko": "미도리",
+        "zh": "綠"
       },
       "last_name": {
         "ja": "才羽",
         "en": "Saiba",
-        "ko": "사이바"
+        "ko": "사이바",
+        "zh": "才羽"
       }
     },
     "school": "millennium",
@@ -752,12 +834,14 @@
       "first_name": {
         "ja": "ウタハ",
         "en": "Utaha",
-        "ko": "우타하"
+        "ko": "우타하",
+        "zh": "詠葉"
       },
       "last_name": {
         "ja": "白石",
         "en": "Shiraishi",
-        "ko": "시라이시"
+        "ko": "시라이시",
+        "zh": "白石"
       }
     },
     "school": "millennium",
@@ -770,12 +854,14 @@
       "first_name": {
         "ja": "アリス",
         "en": "Alice",
-        "ko": "아리스"
+        "ko": "아리스",
+        "zh": "愛麗絲"
       },
       "last_name": {
         "ja": "天童",
         "en": "Tendou",
-        "ko": "텐도"
+        "ko": "텐도",
+        "zh": "天童"
       }
     },
     "school": "millennium",
@@ -788,12 +874,14 @@
       "first_name": {
         "ja": "コトリ",
         "en": "Kotori",
-        "ko": "코토리"
+        "ko": "코토리",
+        "zh": "亞都梨"
       },
       "last_name": {
         "ja": "豊見",
         "en": "Toyomi",
-        "ko": "토요미"
+        "ko": "토요미",
+        "zh": "豊見"
       }
     },
     "school": "millennium",
@@ -806,12 +894,14 @@
       "first_name": {
         "ja": "シュン",
         "en": "Shun",
-        "ko": "슌"
+        "ko": "슌",
+        "zh": "旬"
       },
       "last_name": {
         "ja": "春原",
         "en": "Sunohara",
-        "ko": "스노하라"
+        "ko": "스노하라",
+        "zh": "春原"
       }
     },
     "school": "shanhaijing",
@@ -824,12 +914,14 @@
       "first_name": {
         "ja": "サヤ",
         "en": "Saya",
-        "ko": "사야"
+        "ko": "사야",
+        "zh": "沙耶"
       },
       "last_name": {
         "ja": "薬子",
         "en": "Yakushi",
-        "ko": "야쿠시"
+        "ko": "야쿠시",
+        "zh": "薬子"
       }
     },
     "school": "shanhaijing",
@@ -842,12 +934,14 @@
       "first_name": {
         "ja": "フィーナ",
         "en": "Pina",
-        "ko": "피나"
+        "ko": "피나",
+        "zh": "菲娜"
       },
       "last_name": {
         "ja": "朝比奈",
         "en": "Asahina",
-        "ko": "아사히나"
+        "ko": "아사히나",
+        "zh": "朝比奈"
       }
     },
     "school": "hyakkiyako",
@@ -860,12 +954,14 @@
       "first_name": {
         "ja": "ツバキ",
         "en": "Tsubaki",
-        "ko": "츠바키"
+        "ko": "츠바키",
+        "zh": "椿"
       },
       "last_name": {
         "ja": "春日",
         "en": "Kasuga",
-        "ko": "카스가"
+        "ko": "카스가",
+        "zh": "春日"
       }
     },
     "school": "hyakkiyako",
@@ -878,12 +974,14 @@
       "first_name": {
         "ja": "シズコ",
         "en": "Shizuko",
-        "ko": "시즈코"
+        "ko": "시즈코",
+        "zh": "靜子"
       },
       "last_name": {
         "ja": "河和",
         "en": "Kawawa",
-        "ko": "카와와"
+        "ko": "카와와",
+        "zh": "河和"
       }
     },
     "school": "hyakkiyako",
@@ -896,12 +994,14 @@
       "first_name": {
         "ja": "イズナ",
         "en": "Izuna",
-        "ko": "이즈나"
+        "ko": "이즈나",
+        "zh": "伊樹菜"
       },
       "last_name": {
         "ja": "久田",
         "en": "Kuda",
-        "ko": "쿠다"
+        "ko": "쿠다",
+        "zh": "久田"
       }
     },
     "school": "hyakkiyako",
@@ -914,12 +1014,14 @@
       "first_name": {
         "ja": "チセ",
         "en": "Chise",
-        "ko": "치세"
+        "ko": "치세",
+        "zh": "知世"
       },
       "last_name": {
         "ja": "和楽",
         "en": "Waraku",
-        "ko": "와라쿠"
+        "ko": "와라쿠",
+        "zh": "和樂"
       }
     },
     "school": "hyakkiyako",
@@ -932,12 +1034,14 @@
       "first_name": {
         "ja": "ノドカ",
         "en": "Nodoka",
-        "ko": "노도카"
+        "ko": "노도카",
+        "zh": "和香"
       },
       "last_name": {
         "ja": "天見",
         "en": "Amami",
-        "ko": "아마미"
+        "ko": "아마미",
+        "zh": "天見"
       }
     },
     "school": "red_winter",
@@ -950,12 +1054,14 @@
       "first_name": {
         "ja": "チェリノ",
         "en": "Cherino",
-        "ko": "체리노"
+        "ko": "체리노",
+        "zh": "潔莉諾"
       },
       "last_name": {
         "ja": "連河",
         "en": "Renkawa",
-        "ko": "렌카와"
+        "ko": "렌카와",
+        "zh": "連河"
       }
     },
     "school": "red_winter",
@@ -968,12 +1074,14 @@
       "first_name": {
         "ja": "ユズ",
         "en": "Yuzu",
-        "ko": "유즈"
+        "ko": "유즈",
+        "zh": "柚子"
       },
       "last_name": {
         "ja": "花岡",
         "en": "Hanaoka",
-        "ko": "하나오카"
+        "ko": "하나오카",
+        "zh": "花岡"
       }
     },
     "school": "millennium",
@@ -986,12 +1094,14 @@
       "first_name": {
         "ja": "黒服",
         "en": "Black Suit",
-        "ko": "검은 양복"
+        "ko": "검은 양복",
+        "zh": "黑衣人"
       },
       "last_name": {
         "ja": "",
         "en": "",
-        "ko": ""
+        "ko": "",
+        "zh": ""
       }
     },
     "school": "???",
@@ -1004,12 +1114,14 @@
       "first_name": {
         "ja": "ソラ",
         "en": "Sora",
-        "ko": "소라"
+        "ko": "소라",
+        "zh": "小空"
       },
       "last_name": {
         "ja": "",
         "en": "",
-        "ko": ""
+        "ko": "",
+        "zh": ""
       }
     },
     "school": "???",
@@ -1022,12 +1134,14 @@
       "first_name": {
         "ja": "アロナ",
         "en": "Arona",
-        "ko": "아로나"
+        "ko": "아로나",
+        "zh": "彩奈"
       },
       "last_name": {
         "ja": "",
         "en": "",
-        "ko": ""
+        "ko": "",
+        "zh": ""
       }
     },
     "school": "???",
@@ -1040,12 +1154,14 @@
       "first_name": {
         "ja": "カイザーPMC理事",
         "en": "Kaiser PMC Director",
-        "ko": "카이저 PMC 이사"
+        "ko": "카이저 PMC 이사",
+        "zh": "凱薩PMC理事"
       },
       "last_name": {
         "ja": "",
         "en": "",
-        "ko": ""
+        "ko": "",
+        "zh": ""
       }
     },
     "school": "???",
@@ -1058,12 +1174,14 @@
       "first_name": {
         "ja": "マエストロ",
         "en": "Maestro",
-        "ko": "마에스트로"
+        "ko": "마에스트로",
+        "zh": "Maestro"
       },
       "last_name": {
         "ja": "",
         "en": "",
-        "ko": ""
+        "ko": "",
+        "zh": ""
       }
     },
     "school": "???",
@@ -1076,12 +1194,14 @@
       "first_name": {
         "ja": "柴大将",
         "en": "Shibaseki Master",
-        "ko": "시바세키 사장"
+        "ko": "시바세키 사장",
+        "zh": "柴大将"
       },
       "last_name": {
         "ja": "",
         "en": "",
-        "ko": ""
+        "ko": "",
+        "zh": ""
       }
     },
     "school": "???",
@@ -1094,12 +1214,14 @@
       "first_name": {
         "ja": "ニャン天丸",
         "en": "Nyantenmaru",
-        "ko": "냥텐마루"
+        "ko": "냥텐마루",
+        "zh": "喵天丸"
       },
       "last_name": {
         "ja": "",
         "en": "",
-        "ko": ""
+        "ko": "",
+        "zh": ""
       }
     },
     "school": "???",
@@ -1112,12 +1234,14 @@
       "first_name": {
         "ja": "リン",
         "en": "Rin",
-        "ko": "린"
+        "ko": "린",
+        "zh": "琳"
       },
       "last_name": {
         "ja": "七神",
         "en": "Nanagami",
-        "ko": "나나가미"
+        "ko": "나나가미",
+        "zh": "七神"
       }
     },
     "school": "???",
@@ -1130,12 +1254,14 @@
       "first_name": {
         "ja": "モモカ",
         "en": "Momoka",
-        "ko": "모모카"
+        "ko": "모모카",
+        "zh": "桃香"
       },
       "last_name": {
         "ja": "由良木",
         "en": "Yuragi",
-        "ko": "유라기"
+        "ko": "유라기",
+        "zh": "由良木"
       }
     },
     "school": "???",
@@ -1148,12 +1274,14 @@
       "first_name": {
         "ja": "ペロロ様",
         "en": "Peroro Sama",
-        "ko": "페로로님"
+        "ko": "페로로님",
+        "zh": "佩洛洛大人"
       },
       "last_name": {
         "ja": "",
         "en": "",
-        "ko": ""
+        "ko": "",
+        "zh": ""
       }
     },
     "school": "???",
@@ -1166,12 +1294,14 @@
       "first_name": {
         "ja": "ハナコ",
         "en": "Hanako",
-        "ko": "하나코"
+        "ko": "하나코",
+        "zh": "花子"
       },
       "last_name": {
         "ja": "浦和",
         "en": "Urawa",
-        "ko": "우라와"
+        "ko": "우라와",
+        "zh": "浦和"
       }
     },
     "school": "trinity",
@@ -1184,12 +1314,14 @@
       "first_name": {
         "ja": "アズサ",
         "en": "Azusa",
-        "ko": "아즈사"
+        "ko": "아즈사",
+        "zh": "梓"
       },
       "last_name": {
         "ja": "白洲",
         "en": "Shirasu",
-        "ko": "시라스"
+        "ko": "시라스",
+        "zh": "白洲"
       }
     },
     "school": "trinity",
@@ -1210,12 +1342,14 @@
       "first_name": {
         "ja": "コハル",
         "en": "Koharu",
-        "ko": "코하루"
+        "ko": "코하루",
+        "zh": "小春"
       },
       "last_name": {
         "ja": "下江",
         "en": "Shimoe",
-        "ko": "시모에"
+        "ko": "시모에",
+        "zh": "下江"
       }
     },
     "school": "trinity",
@@ -1228,12 +1362,14 @@
       "first_name": {
         "ja": "ビナー",
         "en": "Binah",
-        "ko": "비나"
+        "ko": "비나",
+        "zh": "Binah"
       },
       "last_name": {
         "ja": "",
         "en": "",
-        "ko": ""
+        "ko": "",
+        "zh": ""
       }
     },
     "school": "???",
@@ -1246,12 +1382,14 @@
       "first_name": {
         "ja": "ケセド",
         "en": "Chesed",
-        "ko": "헤세드"
+        "ko": "헤세드",
+        "zh": "Chesed"
       },
       "last_name": {
         "ja": "",
         "en": "",
-        "ko": ""
+        "ko": "",
+        "zh": ""
       }
     },
     "school": "???",
@@ -1264,12 +1402,14 @@
       "first_name": {
         "ja": "シロ",
         "en": "Shiro",
-        "ko": "시로"
+        "ko": "시로",
+        "zh": "白"
       },
       "last_name": {
         "ja": "",
         "en": "",
-        "ko": ""
+        "ko": "",
+        "zh": ""
       }
     },
     "school": "???",
@@ -1282,12 +1422,14 @@
       "first_name": {
         "ja": "クロ",
         "en": "Kuro",
-        "ko": "쿠로"
+        "ko": "쿠로",
+        "zh": "黑"
       },
       "last_name": {
         "ja": "",
         "en": "",
-        "ko": ""
+        "ko": "",
+        "zh": ""
       }
     },
     "school": "???",
@@ -1300,12 +1442,14 @@
       "first_name": {
         "ja": "ヒエロニムス",
         "en": "Hieronymus",
-        "ko": "예로니무스"
+        "ko": "예로니무스",
+        "zh": "Hieronymus"
       },
       "last_name": {
         "ja": "",
         "en": "",
-        "ko": ""
+        "ko": "",
+        "zh": ""
       }
     },
     "school": "???",
@@ -1318,12 +1462,14 @@
       "first_name": {
         "ja": "ヘルメット団",
         "en": "Helmet Dan",
-        "ko": "헬멧단"
+        "ko": "헬멧단",
+        "zh": "頭盔團"
       },
       "last_name": {
         "ja": "",
         "en": "",
-        "ko": ""
+        "ko": "",
+        "zh": ""
       }
     },
     "school": "???",
@@ -1336,12 +1482,14 @@
       "first_name": {
         "ja": "チンピラ",
         "en": "Chimpira",
-        "ko": "양아치"
+        "ko": "양아치",
+        "zh": "Chimpira"
       },
       "last_name": {
         "ja": "",
         "en": "",
-        "ko": ""
+        "ko": "",
+        "zh": ""
       }
     },
     "school": "???",
@@ -1360,12 +1508,14 @@
       "first_name": {
         "ja": "魑魅一座",
         "en": "Sudama Ichiza",
-        "ko": "길거리 망량즈"
+        "ko": "길거리 망량즈",
+        "zh": "魑魅一座"
       },
       "last_name": {
         "ja": "",
         "en": "",
-        "ko": ""
+        "ko": "",
+        "zh": ""
       }
     },
     "school": "???",
@@ -1378,12 +1528,14 @@
       "first_name": {
         "ja": "アコ",
         "en": "Ako",
-        "ko": "아코"
+        "ko": "아코",
+        "zh": "亞子"
       },
       "last_name": {
         "ja": "天雨",
         "en": "Amau",
-        "ko": "아마우"
+        "ko": "아마우",
+        "zh": "天雨"
       }
     },
     "school": "gehenna",
@@ -1396,12 +1548,14 @@
       "first_name": {
         "ja": "カイテンジャー",
         "en": "Kaitenger",
-        "ko": "카이텐저"
+        "ko": "카이텐저",
+        "zh": "凱坦澤"
       },
       "last_name": {
         "ja": "",
         "en": "",
-        "ko": ""
+        "ko": "",
+        "zh": ""
       }
     },
     "school": "???",
@@ -1420,12 +1574,14 @@
       "first_name": {
         "ja": "KAITEN FX Mk.0",
         "en": "KAITEN FX Mk.0",
-        "ko": "KAITEN FX Mk.0"
+        "ko": "KAITEN FX Mk.0",
+        "zh": "KAITEN FX Mk.0"
       },
       "last_name": {
         "ja": "",
         "en": "",
-        "ko": ""
+        "ko": "",
+        "zh": ""
       }
     },
     "school": "???",
@@ -1438,12 +1594,14 @@
       "first_name": {
         "ja": "キリノ",
         "en": "Kirino",
-        "ko": "키리노"
+        "ko": "키리노",
+        "zh": "桐乃"
       },
       "last_name": {
         "ja": "中務",
         "en": "Nakatsukasa",
-        "ko": "나카츠카사"
+        "ko": "나카츠카사",
+        "zh": "中務"
       }
     },
     "school": "valkyrie",
@@ -1456,12 +1614,14 @@
       "first_name": {
         "ja": "マリー",
         "en": "Mari",
-        "ko": "마리"
+        "ko": "마리",
+        "zh": "瑪麗"
       },
       "last_name": {
         "ja": "伊落",
         "en": "Iochi",
-        "ko": "이오치"
+        "ko": "이오치",
+        "zh": "伊落"
       }
     },
     "school": "trinity",
@@ -1474,12 +1634,14 @@
       "first_name": {
         "ja": "ナツ",
         "en": "Natsu",
-        "ko": "나츠"
+        "ko": "나츠",
+        "zh": "夏"
       },
       "last_name": {
         "ja": "柚鳥",
         "en": "Yutori",
-        "ko": "유토리"
+        "ko": "유토리",
+        "zh": "柚鳥"
       }
     },
     "school": "trinity",
@@ -1492,12 +1654,14 @@
       "first_name": {
         "ja": "ゴルコンダ",
         "en": "Golconde",
-        "ko": "골콩드"
+        "ko": "골콩드",
+        "zh": "Golconde"
       },
       "last_name": {
         "ja": "",
         "en": "",
-        "ko": ""
+        "ko": "",
+        "zh": ""
       }
     },
     "school": "???",
@@ -1510,12 +1674,14 @@
       "first_name": {
         "ja": "デカルコマニー",
         "en": "Décalcomanie",
-        "ko": "데칼코마니"
+        "ko": "데칼코마니",
+        "zh": "Décalcomanie"
       },
       "last_name": {
         "ja": "",
         "en": "",
-        "ko": ""
+        "ko": "",
+        "zh": ""
       }
     },
     "school": "???",
@@ -1528,12 +1694,14 @@
       "first_name": {
         "ja": "ペロロジラ",
         "en": "Perorozilla",
-        "ko": "페로로질라"
+        "ko": "페로로질라",
+        "zh": "佩洛洛斯拉"
       },
       "last_name": {
         "ja": "",
         "en": "",
-        "ko": ""
+        "ko": "",
+        "zh": ""
       }
     },
     "school": "???",
@@ -1546,12 +1714,14 @@
       "first_name": {
         "ja": "キヴォトス市民",
         "en": "Kivotos Citizen",
-        "ko": "키보토스 시민"
+        "ko": "키보토스 시민",
+        "zh": "奇普托斯市民"
       },
       "last_name": {
         "ja": "",
         "en": "",
-        "ko": ""
+        "ko": "",
+        "zh": ""
       }
     },
     "school": "???",
@@ -1570,12 +1740,14 @@
       "first_name": {
         "ja": "風紀委員",
         "en": "Disciplinary Committee Member",
-        "ko": "풍기위원"
+        "ko": "풍기위원",
+        "zh": "風紀委員"
       },
       "last_name": {
         "ja": "",
         "en": "",
-        "ko": ""
+        "ko": "",
+        "zh": ""
       }
     },
     "school": "gehenna",
@@ -1588,12 +1760,14 @@
       "first_name": {
         "ja": "正義実現委員会部員",
         "en": "Justice Task Force Member",
-        "ko": "정의실현위원회 부원"
+        "ko": "정의실현위원회 부원",
+        "zh": "實現正義部部員"
       },
       "last_name": {
         "ja": "",
         "en": "",
-        "ko": ""
+        "ko": "",
+        "zh": ""
       }
     },
     "school": "trinity",
@@ -1606,12 +1780,14 @@
       "first_name": {
         "ja": "アンドロイド",
         "en": "Android",
-        "ko": "안드로이드"
+        "ko": "안드로이드",
+        "zh": "機器人"
       },
       "last_name": {
         "ja": "",
         "en": "",
-        "ko": ""
+        "ko": "",
+        "zh": ""
       }
     },
     "school": "???",
@@ -1624,12 +1800,14 @@
       "first_name": {
         "ja": "ナギサ",
         "en": "Nagisa",
-        "ko": "나기사"
+        "ko": "나기사",
+        "zh": "渚"
       },
       "last_name": {
         "ja": "桐藤",
         "en": "Kirifuji",
-        "ko": "키리후지"
+        "ko": "키리후지",
+        "zh": "桐藤"
       }
     },
     "school": "trinity",
@@ -1642,12 +1820,14 @@
       "first_name": {
         "ja": "ミカ",
         "en": "Mika",
-        "ko": "미카"
+        "ko": "미카",
+        "zh": "彌香"
       },
       "last_name": {
         "ja": "聖園",
         "en": "Misono",
-        "ko": "미소노"
+        "ko": "미소노",
+        "zh": "聖園"
       }
     },
     "school": "trinity",
@@ -1660,12 +1840,14 @@
       "first_name": {
         "ja": "シグレ",
         "en": "Shigure",
-        "ko": "시구레"
+        "ko": "시구레",
+        "zh": "時雨"
       },
       "last_name": {
         "ja": "間宵",
         "en": "Mayoi",
-        "ko": "마요이"
+        "ko": "마요이",
+        "zh": "間宵"
       }
     },
     "school": "red_winter",
@@ -1678,12 +1860,14 @@
       "first_name": {
         "ja": "マリナ",
         "en": "Marina",
-        "ko": "마리나"
+        "ko": "마리나",
+        "zh": "瑪麗娜"
       },
       "last_name": {
         "ja": "池倉",
         "en": "Ikekura",
-        "ko": "이케쿠라"
+        "ko": "이케쿠라",
+        "zh": "池倉"
       }
     },
     "school": "red_winter",
@@ -1696,12 +1880,14 @@
       "first_name": {
         "ja": "トモエ",
         "en": "Tomoe",
-        "ko": "토모에"
+        "ko": "토모에",
+        "zh": "智惠"
       },
       "last_name": {
         "ja": "佐城",
         "en": "Sashiro",
-        "ko": "사시로"
+        "ko": "사시로",
+        "zh": "佐城"
       }
     },
     "school": "red_winter",
@@ -1714,12 +1900,14 @@
       "first_name": {
         "ja": "メグ",
         "en": "Megu",
-        "ko": "메구"
+        "ko": "메구",
+        "zh": "惠"
       },
       "last_name": {
         "ja": "下倉",
         "en": "Shimokura",
-        "ko": "시모쿠라"
+        "ko": "시모쿠라",
+        "zh": "下倉"
       }
     },
     "school": "gehenna",
@@ -1732,12 +1920,14 @@
       "first_name": {
         "ja": "ミノリ",
         "en": "Minori",
-        "ko": "미노리"
+        "ko": "미노리",
+        "zh": "實里"
       },
       "last_name": {
         "ja": "安守",
         "en": "Yasumori",
-        "ko": "야스모리"
+        "ko": "야스모리",
+        "zh": "安守"
       }
     },
     "school": "red_winter",
@@ -1750,12 +1940,14 @@
       "first_name": {
         "ja": "セイア",
         "en": "Seia",
-        "ko": "세이아"
+        "ko": "세이아",
+        "zh": "聖亞"
       },
       "last_name": {
         "ja": "百合園",
         "en": "Yurizono",
-        "ko": "유리조노"
+        "ko": "유리조노",
+        "zh": "百合園"
       }
     },
     "school": "trinity",
@@ -1768,12 +1960,14 @@
       "first_name": {
         "ja": "ティーパーティー",
         "en": "Tea Party",
-        "ko": "티 파티"
+        "ko": "티 파티",
+        "zh": "茶會"
       },
       "last_name": {
         "ja": "",
         "en": "",
-        "ko": ""
+        "ko": "",
+        "zh": ""
       }
     },
     "school": "trinity",
@@ -1786,12 +1980,14 @@
       "first_name": {
         "ja": "シスターフッド",
         "en": "Sisterhood",
-        "ko": "시스터후드"
+        "ko": "시스터후드",
+        "zh": "修女會"
       },
       "last_name": {
         "ja": "",
         "en": "",
-        "ko": ""
+        "ko": "",
+        "zh": ""
       }
     },
     "school": "trinity",
@@ -1804,12 +2000,14 @@
       "first_name": {
         "ja": "ワカモ",
         "en": "Wakamo",
-        "ko": "와카모"
+        "ko": "와카모",
+        "zh": "若藻"
       },
       "last_name": {
         "ja": "狐坂",
         "en": "Kosaka",
-        "ko": "코사카"
+        "ko": "코사카",
+        "zh": "狐坂"
       }
     },
     "school": "hyakkiyako",
@@ -1822,12 +2020,14 @@
       "first_name": {
         "ja": "フブキ",
         "en": "Fubuki",
-        "ko": "후부키"
+        "ko": "후부키",
+        "zh": "吹雪"
       },
       "last_name": {
         "ja": "合歓垣",
         "en": "Nemugaki",
-        "ko": "네무가키"
+        "ko": "네무가키",
+        "zh": "合歓垣"
       }
     },
     "school": "valkyrie",
@@ -1840,12 +2040,14 @@
       "first_name": {
         "ja": "チヒロ",
         "en": "Chihiro",
-        "ko": "치히로"
+        "ko": "치히로",
+        "zh": "千尋"
       },
       "last_name": {
         "ja": "各務",
         "en": "Kagami",
-        "ko": "카가미"
+        "ko": "카가미",
+        "zh": "各務"
       }
     },
     "school": "millennium",
@@ -1858,12 +2060,14 @@
       "first_name": {
         "ja": "セナ",
         "en": "Sena",
-        "ko": "세나"
+        "ko": "세나",
+        "zh": "瀨奈"
       },
       "last_name": {
         "ja": "氷室",
         "en": "Himuro",
-        "ko": "히무로"
+        "ko": "히무로",
+        "zh": "冰室"
       }
     },
     "school": "gehenna",
@@ -1876,12 +2080,14 @@
       "first_name": {
         "ja": "ミモリ",
         "en": "Mimori",
-        "ko": "미모리"
+        "ko": "미모리",
+        "zh": "三森"
       },
       "last_name": {
         "ja": "水羽",
         "en": "Mizuha",
-        "ko": "미즈하"
+        "ko": "미즈하",
+        "zh": "水羽"
       }
     },
     "school": "hyakkiyako",
@@ -1894,12 +2100,14 @@
       "first_name": {
         "ja": "ホド",
         "en": "Hod",
-        "ko": "호드"
+        "ko": "호드",
+        "zh": "Hod"
       },
       "last_name": {
         "ja": "",
         "en": "",
-        "ko": ""
+        "ko": "",
+        "zh": ""
       }
     },
     "school": "???",
@@ -1912,12 +2120,14 @@
       "first_name": {
         "ja": "ウイ",
         "en": "Ui",
-        "ko": "우이"
+        "ko": "우이",
+        "zh": "憂"
       },
       "last_name": {
         "ja": "古関",
         "en": "Kozeki",
-        "ko": "코제키"
+        "ko": "코제키",
+        "zh": "古関"
       }
     },
     "school": "trinity",
@@ -1930,12 +2140,14 @@
       "first_name": {
         "ja": "ヒナタ",
         "en": "Hinata",
-        "ko": "히나타"
+        "ko": "히나타",
+        "zh": "日向"
       },
       "last_name": {
         "ja": "若葉",
         "en": "Wakaba",
-        "ko": "와카바"
+        "ko": "와카바",
+        "zh": "若葉"
       }
     },
     "school": "trinity",
@@ -1948,12 +2160,14 @@
       "first_name": {
         "ja": "ミヤコ",
         "en": "Miyako",
-        "ko": "미야코"
+        "ko": "미야코",
+        "zh": "宫子"
       },
       "last_name": {
         "ja": "月雪",
         "en": "Tsukiyuki",
-        "ko": "츠키유키"
+        "ko": "츠키유키",
+        "zh": "月雪"
       }
     },
     "school": "srt",
@@ -1966,12 +2180,14 @@
       "first_name": {
         "ja": "サキ",
         "en": "Saki",
-        "ko": "사키"
+        "ko": "사키",
+        "zh": "咲"
       },
       "last_name": {
         "ja": "空井",
         "en": "Sorai",
-        "ko": "소라이"
+        "ko": "소라이",
+        "zh": "空井"
       }
     },
     "school": "srt",
@@ -1984,12 +2200,14 @@
       "first_name": {
         "ja": "ミユ",
         "en": "Miyu",
-        "ko": "미유"
+        "ko": "미유",
+        "zh": "美遊"
       },
       "last_name": {
         "ja": "霞沢",
         "en": "Kasumizawa",
-        "ko": "카스미자와"
+        "ko": "카스미자와",
+        "zh": "霞沢"
       }
     },
     "school": "srt",
@@ -2002,12 +2220,14 @@
       "first_name": {
         "ja": "モエ",
         "en": "Moe",
-        "ko": "모에"
+        "ko": "모에",
+        "zh": "萌繪"
       },
       "last_name": {
         "ja": "風倉",
         "en": "Kazekura",
-        "ko": "카제쿠라"
+        "ko": "카제쿠라",
+        "zh": "風倉"
       }
     },
     "school": "srt",
@@ -2020,12 +2240,14 @@
       "first_name": {
         "ja": "アユム",
         "en": "Ayumu",
-        "ko": "아유무"
+        "ko": "아유무",
+        "zh": "步"
       },
       "last_name": {
         "ja": "岩櫃",
         "en": "Iwabitsu",
-        "ko": "이와비츠"
+        "ko": "이와비츠",
+        "zh": "岩櫃"
       }
     },
     "school": "???",
@@ -2038,12 +2260,14 @@
       "first_name": {
         "ja": "ミチル",
         "en": "Michiru",
-        "ko": "미치루"
+        "ko": "미치루",
+        "zh": "滿"
       },
       "last_name": {
         "ja": "千鳥",
         "en": "Chidori",
-        "ko": "치도리"
+        "ko": "치도리",
+        "zh": "千鳥"
       }
     },
     "school": "hyakkiyako",
@@ -2056,12 +2280,14 @@
       "first_name": {
         "ja": "イロハ",
         "en": "Iroha",
-        "ko": "이로하"
+        "ko": "이로하",
+        "zh": "伊呂波"
       },
       "last_name": {
         "ja": "棗",
         "en": "Natsume",
-        "ko": "나츠메"
+        "ko": "나츠메",
+        "zh": "棗"
       }
     },
     "school": "gehenna",
@@ -2074,12 +2300,14 @@
       "first_name": {
         "ja": "カエデ",
         "en": "Kaede",
-        "ko": "카에데"
+        "ko": "카에데",
+        "zh": "楓"
       },
       "last_name": {
         "ja": "勇美",
         "en": "Isami",
-        "ko": "이사미"
+        "ko": "이사미",
+        "zh": "勇美"
       }
     },
     "school": "hyakkiyako",
@@ -2092,12 +2320,14 @@
       "first_name": {
         "ja": "ツクヨ",
         "en": "Tsukuyo",
-        "ko": "츠쿠요"
+        "ko": "츠쿠요",
+        "zh": "築夜"
       },
       "last_name": {
         "ja": "大野",
         "en": "Oono",
-        "ko": "오오노"
+        "ko": "오오노",
+        "zh": "大野"
       }
     },
     "school": "hyakkiyako",
@@ -2110,12 +2340,14 @@
       "first_name": {
         "ja": "サオリ",
         "en": "Saori",
-        "ko": "사오리"
+        "ko": "사오리",
+        "zh": "Saori"
       },
       "last_name": {
         "ja": "錠前",
         "en": "Joumae",
-        "ko": "죠마에"
+        "ko": "죠마에",
+        "zh": "Joumae"
       }
     },
     "school": "arius",
@@ -2128,12 +2360,14 @@
       "first_name": {
         "ja": "ヒヨリ",
         "en": "Hiyori",
-        "ko": "히요리"
+        "ko": "히요리",
+        "zh": "日和"
       },
       "last_name": {
         "ja": "槌永",
         "en": "Tsuchinaga",
-        "ko": "츠치나가"
+        "ko": "츠치나가",
+        "zh": "槌永"
       }
     },
     "school": "arius",
@@ -2146,12 +2380,14 @@
       "first_name": {
         "ja": "ミサキ",
         "en": "Misaki",
-        "ko": "미사키"
+        "ko": "미사키",
+        "zh": "美咲"
       },
       "last_name": {
         "ja": "戒野",
         "en": "Imashino",
-        "ko": "이마시노"
+        "ko": "이마시노",
+        "zh": "戒野"
       }
     },
     "school": "arius",
@@ -2164,12 +2400,14 @@
       "first_name": {
         "ja": "アツコ",
         "en": "Atsuko",
-        "ko": "아츠코"
+        "ko": "아츠코",
+        "zh": "亞津子"
       },
       "last_name": {
         "ja": "秤",
         "en": "Hakari",
-        "ko": "하카리"
+        "ko": "하카리",
+        "zh": "秤"
       }
     },
     "school": "arius",
@@ -2182,12 +2420,14 @@
       "first_name": {
         "ja": "カホ",
         "en": "Kaho",
-        "ko": "카호"
+        "ko": "카호",
+        "zh": "嘉穗"
       },
       "last_name": {
         "ja": "桑上",
         "en": "Kuwakami",
-        "ko": "쿠와카미"
+        "ko": "쿠와카미",
+        "zh": "桑上"
       }
     },
     "school": "hyakkiyako",
@@ -2200,12 +2440,14 @@
       "first_name": {
         "ja": "ニヤ",
         "en": "Niya",
-        "ko": "니야"
+        "ko": "니야",
+        "zh": "妮婭"
       },
       "last_name": {
         "ja": "天地",
         "en": "Amachi",
-        "ko": "아마치"
+        "ko": "아마치",
+        "zh": "天地"
       }
     },
     "school": "hyakkiyako",
@@ -2218,12 +2460,14 @@
       "first_name": {
         "ja": "カンナ",
         "en": "Kanna",
-        "ko": "칸나"
+        "ko": "칸나",
+        "zh": "神奈"
       },
       "last_name": {
         "ja": "尾刃",
         "en": "Ogata",
-        "ko": "오가타"
+        "ko": "오가타",
+        "zh": "尾刃"
       }
     },
     "school": "valkyrie",
