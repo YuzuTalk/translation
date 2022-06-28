@@ -19,7 +19,7 @@
     "school": "abydos",
     "club": ["countermeasures_council", "masked_swimsuit_group"],
     "id": "Nonomi",
-    "img": ["Nonomi", "Nonomi_Robber"]
+    "img": ["Nonomi", "Nonomi_Robber", "Nonomi_Swimsuit"]
   },
   {
     "name": {
@@ -45,7 +45,13 @@
       "sibaseki_ramen"
     ],
     "id": "Serika",
-    "img": ["Serika", "Serika_Robber", "Serika_Shibaseki", "Serika_Newyear"]
+    "img": [
+      "Serika",
+      "Serika_Robber",
+      "Serika_Shibaseki",
+      "Serika_Newyear",
+      "Serika_Swimsuit"
+    ]
   },
   {
     "name": {
@@ -67,7 +73,7 @@
     "school": "abydos",
     "club": ["countermeasures_council", "masked_swimsuit_group"],
     "id": "Ayane",
-    "img": ["Ayane", "Ayane_Robber"]
+    "img": ["Ayane", "Ayane_Robber", "Ayane_Swimsuit"]
   },
   {
     "name": {
@@ -89,7 +95,12 @@
     "school": "abydos",
     "club": ["countermeasures_council", "masked_swimsuit_group"],
     "id": "Shiroko",
-    "img": ["Shiroko", "Shiroko_Robber", "Shiroko_Ridingsuit"]
+    "img": [
+      "Shiroko",
+      "Shiroko_Robber",
+      "Shiroko_Ridingsuit",
+      "Shiroko_Swimsuit"
+    ]
   },
   {
     "name": {
@@ -111,7 +122,7 @@
     "school": "abydos",
     "club": ["countermeasures_council", "masked_swimsuit_group"],
     "id": "Hoshino",
-    "img": ["Hoshino", "Hoshino_Robber"]
+    "img": ["Hoshino", "Hoshino_Robber", "Hoshino_Swimsuit"]
   },
   {
     "name": {
@@ -2211,7 +2222,7 @@
     "school": "hyakkiyako",
     "club": [""],
     "id": "Wakamo",
-    "img": ["Wakamo"]
+    "img": ["Wakamo", "Wakamo_Swimsuit"]
   },
   {
     "name": {
