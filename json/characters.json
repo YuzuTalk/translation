@@ -19,7 +19,12 @@
     "school": "abydos",
     "club": ["countermeasures_council", "masked_swimsuit_group"],
     "id": "Nonomi",
-    "img": ["Nonomi", "Nonomi_Robber", "Nonomi_Swimsuit"]
+    "img": [
+      "Nonomi",
+      "Nonomi_Robber",
+      "Nonomi_Swimsuit",
+      "Nonomi_Robber_Swimsuit"
+    ]
   },
   {
     "name": {
@@ -50,7 +55,8 @@
       "Serika_Robber",
       "Serika_Shibaseki",
       "Serika_Newyear",
-      "Serika_Swimsuit"
+      "Serika_Swimsuit",
+      "Serika_Robber_Swimsuit"
     ]
   },
   {
@@ -73,7 +79,7 @@
     "school": "abydos",
     "club": ["countermeasures_council", "masked_swimsuit_group"],
     "id": "Ayane",
-    "img": ["Ayane", "Ayane_Robber", "Ayane_Swimsuit"]
+    "img": ["Ayane", "Ayane_Robber", "Ayane_Swimsuit", "Ayane_Robber_Swimsuit"]
   },
   {
     "name": {
@@ -99,7 +105,8 @@
       "Shiroko",
       "Shiroko_Robber",
       "Shiroko_Ridingsuit",
-      "Shiroko_Swimsuit"
+      "Shiroko_Swimsuit",
+      "Shiroko_Robber_Swimsuit"
     ]
   },
   {
@@ -122,7 +129,12 @@
     "school": "abydos",
     "club": ["countermeasures_council", "masked_swimsuit_group"],
     "id": "Hoshino",
-    "img": ["Hoshino", "Hoshino_Robber", "Hoshino_Swimsuit"]
+    "img": [
+      "Hoshino",
+      "Hoshino_Robber",
+      "Hoshino_Swimsuit",
+      "Hoshino_Robber_Swimsuit"
+    ]
   },
   {
     "name": {
@@ -1096,7 +1108,7 @@
     "school": "hyakkiyako",
     "club": ["festival_operations_department"],
     "id": "Shizuko",
-    "img": ["Shizuko"]
+    "img": ["Shizuko", "Shizuko_Swimsuit"]
   },
   {
     "name": {
@@ -1118,7 +1130,7 @@
     "school": "hyakkiyako",
     "club": ["ninjutsu_research_department"],
     "id": "Izuna",
-    "img": ["Izuna"]
+    "img": ["Izuna", "Izuna_Swimsuit"]
   },
   {
     "name": {
@@ -1140,7 +1152,7 @@
     "school": "hyakkiyako",
     "club": ["yin_yang_club"],
     "id": "Chise",
-    "img": ["Chise"]
+    "img": ["Chise", "Chise_Swimsuit"]
   },
   {
     "name": {
@@ -2310,7 +2322,7 @@
     "school": "hyakkiyako",
     "club": ["inner_discipline_club"],
     "id": "Mimori",
-    "img": ["Mimori"]
+    "img": ["Mimori", "Mimori_Swimsuit"]
   },
   {
     "name": {
