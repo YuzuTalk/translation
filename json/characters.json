@@ -1306,7 +1306,7 @@
     "school": "???",
     "club": ["kaiser_pmc"],
     "id": "Kaiser_PMC_Director",
-    "img": ["Kaiser_PMC_Director"]
+    "img": ["Kaiser_PMC_Director", "Kaiser_PMC_Director_Summer"]
   },
   {
     "name": {
@@ -2741,5 +2741,93 @@
     "club": ["public_safety_bureau"],
     "id": "Kanna",
     "img": ["Kanna"]
+  },
+  {
+    "name": {
+      "first_name": {
+        "ja": "カズサ",
+        "en": "Kazusa",
+        "ko": "카즈사",
+        "zh-hant": "Kazusa",
+        "zh-hans": "Kazusa"
+      },
+      "last_name": {
+        "ja": "杏山",
+        "en": "Kyouyama",
+        "ko": "쿄야마",
+        "zh-hant": "Kyouyama",
+        "zh-hans": "Kyouyama"
+      }
+    },
+    "school": "trinity",
+    "club": ["after_school_sweets_club"],
+    "id": "Kazusa",
+    "img": ["Kazusa"]
+  },
+  {
+    "name": {
+      "first_name": {
+        "ja": "レイサ",
+        "en": "Reisa",
+        "ko": "레이사",
+        "zh-hant": "Reisa",
+        "zh-hans": "Reisa"
+      },
+      "last_name": {
+        "ja": "宇沢",
+        "en": "Uzawa",
+        "ko": "우자와",
+        "zh-hant": "Uzawa",
+        "zh-hans": "Uzawa"
+      }
+    },
+    "school": "trinity",
+    "club": ["vigilante_crew"],
+    "id": "Reisa",
+    "img": ["Reisa"]
+  },
+  {
+    "name": {
+      "first_name": {
+        "ja": "ラブ",
+        "en": "Rabu",
+        "ko": "라브",
+        "zh-hant": "Rabu",
+        "zh-hans": "Rabu"
+      },
+      "last_name": {
+        "ja": "河駒風",
+        "en": "Komakaze",
+        "ko": "코마카제",
+        "zh-hant": "Komakaze",
+        "zh-hans": "Komakaze"
+      }
+    },
+    "school": "???",
+    "club": ["helmet_dan"],
+    "id": "Rabu",
+    "img": ["Rabu"]
+  },
+  {
+    "name": {
+      "first_name": {
+        "ja": "ベアトリーチェ",
+        "en": "Beatrice",
+        "ko": "베아트리체",
+        "zh-hant": "Beatrice",
+        "zh-hans": "Beatrice"
+      },
+      "last_name": {
+        "ja": "",
+        "en": "",
+        "ko": "",
+        "zh-hant": "",
+        "zh-hans": ""
+      }
+    },
+    "school": "???",
+    "club": ["gematria"],
+    "id": "Beatrice",
+    "img": ["Beatrice"]
   }
 ]
