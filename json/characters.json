@@ -2829,5 +2829,27 @@
     "club": ["gematria"],
     "id": "Beatrice",
     "img": ["Beatrice"]
+  },
+  {
+    "name": {
+      "first_name": {
+        "ja": "ココナ",
+        "en": "Kokona",
+        "ko": "코코나",
+        "zh-hant": "Kokona",
+        "zh-hans": "Kokona"
+      },
+      "last_name": {
+        "ja": "春原",
+        "en": "Sunohara",
+        "ko": "스노하라",
+        "zh-hant": "春原",
+        "zh-hans": "春原"
+      }
+    },
+    "school": "shanhaijing",
+    "club": ["plum_blossom_garden"],
+    "id": "Kokona",
+    "img": ["Kokona"]
   }
 ]
