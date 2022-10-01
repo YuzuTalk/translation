@@ -79,7 +79,13 @@
     "school": "abydos",
     "club": ["countermeasures_council", "masked_swimsuit_group"],
     "id": "Ayane",
-    "img": ["Ayane", "Ayane_Robber", "Ayane_Swimsuit", "Ayane_Robber_Swimsuit"]
+    "img": [
+      "Ayane",
+      "Ayane_Robber",
+      "Ayane_Swimsuit",
+      "Ayane_Robber_Swimsuit",
+      "Ayane_Gym"
+    ]
   },
   {
     "name": {
@@ -822,7 +828,7 @@
     "school": "millennium",
     "club": ["engineering_club"],
     "id": "Hibiki",
-    "img": ["Hibiki"]
+    "img": ["Hibiki", "Hibiki_Cheer"]
   },
   {
     "name": {
@@ -954,7 +960,7 @@
     "school": "millennium",
     "club": ["engineering_club"],
     "id": "Utaha",
-    "img": ["Utaha"]
+    "img": ["Utaha", "Utaha_Cheer"]
   },
   {
     "name": {
@@ -998,7 +1004,7 @@
     "school": "millennium",
     "club": ["engineering_club"],
     "id": "Kotori",
-    "img": ["Kotori"]
+    "img": ["Kotori", "Kotori_Cheer", "Kotori_Cheer_Glasses"]
   },
   {
     "name": {
@@ -2851,5 +2857,49 @@
     "club": ["plum_blossom_garden"],
     "id": "Kokona",
     "img": ["Kokona"]
+  },
+  {
+    "name": {
+      "first_name": {
+        "ja": "ノア",
+        "en": "Noa",
+        "ko": "노아",
+        "zh-hant": "Noa",
+        "zh-hans": "Noa"
+      },
+      "last_name": {
+        "ja": "生塩",
+        "en": "Ushio",
+        "ko": "우시오",
+        "zh-hant": "Ushio",
+        "zh-hans": "Ushio"
+      }
+    },
+    "school": "millennium",
+    "club": ["seminar"],
+    "id": "Noa",
+    "img": ["Noa"]
+  },
+  {
+    "name": {
+      "first_name": {
+        "ja": "ミレニアムの生徒",
+        "en": "Millennium Student",
+        "ko": "밀레니엄 학생",
+        "zh-hant": "Millennium Student",
+        "zh-hans": "Millennium Student"
+      },
+      "last_name": {
+        "ja": "",
+        "en": "",
+        "ko": "",
+        "zh-hant": "",
+        "zh-hans": ""
+      }
+    },
+    "school": "millennium",
+    "club": [""],
+    "id": "Millennium_Student",
+    "img": ["Millennium_Student_A", "Millennium_Student_B"]
   }
 ]
